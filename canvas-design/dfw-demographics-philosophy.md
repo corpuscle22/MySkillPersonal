@@ -1,0 +1,13 @@
+# Cartographic Abstraction
+
+## Design Philosophy
+
+This philosophy emerges from the visual language of aerial cartography and demographic mapping—where the complexity of human settlement becomes pure geometric poetry. We draw inspiration from the systematic beauty of USGS topographical surveys, the analytical clarity of census visualizations, and the quiet authority of statistical atlases. Every element is placed with the precision of a master cartographer, the result of countless hours spent calibrating spatial relationships until they achieve perfect equilibrium.
+
+The aesthetic embraces what we call "datascape monumentalism"—the transformation of numbers into architectural form. Population counts become towering geometric masses. Growth rates translate into flowing gradients that suggest movement across time. Ethnic diversity renders as interlocking color fields that honor both distinction and unity. The work must appear as though it were produced by a dedicated visualization studio after months of painstaking refinement—each proportion tested, each typeface carefully selected, each color precisely calibrated to scientific standards.
+
+Typography exists in two registers: monumental numerals that carry the weight of statistical truth, and whispered labels in thin, clinical typefaces that anchor meaning without competing for attention. Text is sparse—only the essential identifiers survive. The canvas breathes through generous negative space, allowing data points to resonate like constellations in a night sky. Spacing is measured, deliberate, the product of deep expertise in visual hierarchy.
+
+Color operates as information architecture. A restrained palette of warm earth tones and cool metropolitan blues speaks to the geography of Texas—the burnt sienna of the prairie, the steel blue of urban expansion, the sage green of suburban growth corridors. Each hue is precisely weighted to suggest demographic proportion without literal representation. The palette feels cohesive, intentional, the work of someone who has studied chromatic theory extensively and applied it with surgical precision.
+
+The composition must suggest both the abstraction of satellite imagery and the intimacy of personal residence. Geometric forms nest within one another like the expansion rings of metropolitan development. Circular motifs echo census tracts; linear elements suggest transportation corridors and migration flows. Every element is contained, balanced, with breathing room and clear separation. This is work that could hang in a museum of statistical visualization—a masterpiece of labored-over craftsmanship that proves population data can be studied, mapped, and understood as pure visual art.
