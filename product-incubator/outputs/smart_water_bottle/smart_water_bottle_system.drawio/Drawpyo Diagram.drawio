@@ -1,0 +1,31 @@
+<mxfile host="Drawpyo" modified="2026-02-07T08:39:10" agent="Python 3.13, Drawpyo 0.23" version="21.6.5" type="device">
+  <diagram name="Smart Water Bottle System" id="2424249970000">
+    <mxGraphModel dx="2037" dy="830" grid="1" gridSize="10" guides="1" toolTips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2424249970960" value="User Input" style="whiteSpace=wrap;rounded=0;dashed=0;" vertex="1" parent="1">
+  <mxGeometry x="50" y="150" width="100" height="60" as="geometry" />
+</mxCell>
+        <mxCell id="2424249971600" value="Controller" style="whiteSpace=wrap;rounded=0;dashed=0;" vertex="1" parent="1">
+  <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+</mxCell>
+        <mxCell id="2424249972240" value="Actuator" style="whiteSpace=wrap;rounded=0;dashed=0;" vertex="1" parent="1">
+  <mxGeometry x="370" y="150" width="100" height="60" as="geometry" />
+</mxCell>
+        <mxCell id="2424249972880" value="Output" style="whiteSpace=wrap;rounded=0;dashed=0;" vertex="1" parent="1">
+  <mxGeometry x="520" y="150" width="100" height="60" as="geometry" />
+</mxCell>
+        <mxCell id="2424249973520" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;" edge="1" parent="1" source="2424249970960" target="2424249971600">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+        <mxCell id="2424249974160" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;" edge="1" parent="1" source="2424249971600" target="2424249972240">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+        <mxCell id="2424275009616" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;" edge="1" parent="1" source="2424249972240" target="2424249972880">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

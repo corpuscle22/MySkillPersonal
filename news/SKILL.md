@@ -12,7 +12,8 @@ description: Get the latest news updates on a specific topic. Use this skill whe
     *   **Primary Source Strategy**: Start with **Google News** queries (e.g., "Google News [topic]") to get an aggregated view of top stories.
     *   Query examples: "latest news [topic]", "[topic] current events", "[topic] updates [current_month] [current_year]".
     *   Focus on major international news outlets (e.g., Reuters, AP, BBC, Al Jazeera, NYT, trusted local sources).
-    *   **Time Awareness**: Pay close attention to the publication **date and time**. Prioritize the absolute latest updates (last 1-24 hours).
+    *   **Time Awareness (STRICT)**: Pay close attention to the publication **date and time**. You must **ONLY** include news from the last **24 hours**.
+    *   **DISCARD OLD NEWS**: If a news item is older than 24 hours, **do not include it** in the final report, even if it is relevant. The user wants "latest" news only.
 3.  **Iterative Research & Expansion**:
     *   **Keep Adding Sources**: Do not stop at the first result. If the initial search reveals sub-topics or new developments, run specific follow-up searches for those details.
     *   **Official & Authentic Sources**: **Thoroughly check** official government websites (e.g., `.gov`, `.mil`, country-specific official domains) and organization websites (NGOs, corporate press releases) when relevant. Do not rely solely on secondary reporting if primary data is available.

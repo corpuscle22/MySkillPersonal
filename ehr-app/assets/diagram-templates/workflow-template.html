@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clinical Workflow: [WORKFLOW_NAME]</title>
+    <meta charset="UTF-8">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 1400px; margin: 0 auto; padding: 20px; background: #f5f5f5; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        .diagram-container { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 20px; }
+        .mermaid { text-align: center; }
+        .comparison { display: flex; gap: 20px; margin-top: 20px; }
+        .comparison > div { flex: 1; }
+        .legend { margin-top: 20px; padding: 15px; background: #fff; border-radius: 8px; }
+        .legend-item { display: inline-block; margin-right: 15px; }
+    </style>
+</head>
+<body>
+    <h1>Clinical Workflow: [APPLICATION_NAME]</h1>
+
+    <h2>Current State Workflow (Without Application)</h2>
+    <div class="diagram-container">
+        <div class="mermaid">
+flowchart TB
+    subgraph Clinician["Clinician Workflow"]
+        A[Patient Encounter] --> B[Review Chart]
+        B --> C[Order Labs/Vitals]
+        C --> D[Results Return]
+        D --> E{Manually Review<br/>Each Result}
+        E -->|Normal| F[Document in Note]
+        E -->|Abnormal| G[Calculate Risk Score<br/>Manually]
+        G --> H{Risk Elevated?}
+        H -->|Yes| I[Search Guidelines]
+        I --> J[Document Assessment]
+        J --> K[Place Orders]
+        H -->|No| F
+    end
+
+    subgraph Issues["Pain Points"]
+        L[Time-consuming manual review]
+        M[Risk of missed findings]
+        N[Inconsistent application of criteria]
+        O[Delayed intervention]
+    end
+
+    style L fill:#f8cecc,stroke:#b85450
+    style M fill:#f8cecc,stroke:#b85450
+    style N fill:#f8cecc,stroke:#b85450
+    style O fill:#f8cecc,stroke:#b85450
+        </div>
+    </div>
+
+    <h2>Future State Workflow (With Application)</h2>
+    <div class="diagram-container">
+        <div class="mermaid">
+flowchart TB
+    subgraph EHR["EHR System"]
+        A[Patient Encounter] --> B[Open Patient Chart]
+        B --> C{CDS Hook<br/>Triggered}
+    end
+
+    subgraph App["CDS Application"]
+        C -->|patient-view| D[Fetch Patient Data<br/>via FHIR]
+        D --> E[Clinical Logic Engine]
+        E --> F{Criteria Met?}
+    end
+
+    subgraph Alert["Alert Workflow"]
+        F -->|Yes| G[Generate CDS Card]
+        G --> H[Display Alert in EHR]
+        H --> I{Clinician Action}
+        I -->|Accept| J[Auto-populate Orders/<br/>Problem List Update]
+        I -->|Override| K[Document Reason]
+        I -->|Defer| L[Snooze Alert]
+    end
+
+    subgraph NoAlert["No Action Needed"]
+        F -->|No| M[Silent - No Alert]
+    end
+
+    J --> N[Audit Log Entry]
+    K --> N
+    L --> N
+
+    style G fill:#fff2cc,stroke:#d6b656
+    style H fill:#fff2cc,stroke:#d6b656
+    style J fill:#d5e8d4,stroke:#82b366
+    style N fill:#dae8fc,stroke:#6c8ebf
+        </div>
+    </div>
+
+    <h2>Alert Notification Workflow</h2>
+    <div class="diagram-container">
+        <div class="mermaid">
+flowchart LR
+    subgraph Trigger["Alert Trigger"]
+        A[Clinical Criteria Met] --> B[Generate Alert]
+    end
+
+    subgraph Priority["Priority Classification"]
+        B --> C{Severity Level}
+        C -->|Critical| D[Immediate Notification]
+        C -->|Warning| E[Standard Alert]
+        C -->|Info| F[Passive Display]
+    end
+
+    subgraph Delivery["Delivery Channels"]
+        D --> G[Interruptive Alert]
+        D --> H[Pager/SMS]
+        E --> I[In-Basket Message]
+        E --> J[Chart Banner]
+        F --> K[Info Panel]
+    end
+
+    subgraph Response["Response Tracking"]
+        G --> L{Action Taken?}
+        I --> L
+        L -->|Yes| M[Log Response]
+        L -->|No - Timeout| N[Escalate]
+        N --> O[Notify Supervisor]
+    end
+
+    style D fill:#f8cecc,stroke:#b85450
+    style G fill:#f8cecc,stroke:#b85450
+    style H fill:#f8cecc,stroke:#b85450
+    style E fill:#fff2cc,stroke:#d6b656
+    style N fill:#f8cecc,stroke:#b85450
+    style O fill:#f8cecc,stroke:#b85450
+        </div>
+    </div>
+
+    <div class="legend">
+        <h3>Workflow Legend</h3>
+        <div class="legend-item"><span style="display:inline-block;width:20px;height:20px;background:#d5e8d4;border:1px solid #82b366;vertical-align:middle;margin-right:5px;"></span> Successful Action</div>
+        <div class="legend-item"><span style="display:inline-block;width:20px;height:20px;background:#fff2cc;border:1px solid #d6b656;vertical-align:middle;margin-right:5px;"></span> Alert/Decision Point</div>
+        <div class="legend-item"><span style="display:inline-block;width:20px;height:20px;background:#f8cecc;border:1px solid #b85450;vertical-align:middle;margin-right:5px;"></span> Critical/Escalation</div>
+        <div class="legend-item"><span style="display:inline-block;width:20px;height:20px;background:#dae8fc;border:1px solid #6c8ebf;vertical-align:middle;margin-right:5px;"></span> System/Automated</div>
+    </div>
+
+    <script>
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            securityLevel: 'loose',
+            flowchart: {
+                useMaxWidth: true,
+                htmlLabels: true,
+                curve: 'basis'
+            }
+        });
+    </script>
+</body>
+</html>

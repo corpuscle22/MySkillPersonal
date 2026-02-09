@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clinical Workflow: Diabetes Mellitus Identifier</title>
+    <meta charset="UTF-8">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 1400px; margin: 0 auto; padding: 20px; background: #f5f5f5; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        .diagram-container { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 20px; }
+        .mermaid { text-align: center; }
+        .legend { margin-top: 20px; padding: 15px; background: #fff; border-radius: 8px; }
+        .legend-item { display: inline-block; margin-right: 15px; }
+    </style>
+</head>
+<body>
+    <h1>Clinical Workflow: Diabetes Mellitus Identifier</h1>
+
+    <h2>Current State Workflow (Without CDS)</h2>
+    <div class="diagram-container">
+        <div class="mermaid">
+flowchart TB
+    subgraph Clinician["Current Clinician Workflow"]
+        A[Patient Encounter] --> B[Review Chart]
+        B --> C[Order Labs]
+        C --> D[Results Return]
+        D --> E{Manually Review<br/>Lab Results}
+        E -->|Normal| F[Document in Note]
+        E -->|Abnormal| G[Compare to<br/>Previous Results]
+        G --> H{Meets Diabetes<br/>Criteria?}
+        H -->|Unsure| I[Look Up Guidelines]
+        I --> J[Calculate/Compare<br/>Thresholds]
+        J --> H
+        H -->|Yes| K[Add to Problem List]
+        K --> L[Order Follow-up]
+        H -->|No| F
+    end
+
+    subgraph Issues["Pain Points"]
+        M[Manual threshold checking]
+        N[Missed diagnoses]
+        O[Inconsistent documentation]
+        P[Delayed intervention]
+    end
+
+    style M fill:#f8cecc,stroke:#b85450
+    style N fill:#f8cecc,stroke:#b85450
+    style O fill:#f8cecc,stroke:#b85450
+    style P fill:#f8cecc,stroke:#b85450
+        </div>
+    </div>
+
+    <h2>Future State Workflow (With Diabetes Identifier CDS)</h2>
+    <div class="diagram-container">
+        <div class="mermaid">
+flowchart TB
+    subgraph EHR["EHR System"]
+        A[Patient Encounter] --> B[Open Patient Chart]
+        B --> C{CDS Hook<br/>patient-view}
+    end
+
+    subgraph CDS["Diabetes Identifier CDS"]
+        C -->|Triggered| D[Fetch Prefetch Data:<br/>HbA1c, Glucose, Conditions]
+        D --> E[Apply ADA Criteria]
+        E --> F{Diabetes/Prediabetes<br/>Criteria Met?}
+        F -->|Yes| G{Already on<br/>Problem List?}
+        G -->|No| H[Generate Alert Card]
+        G -->|Yes| I[No Alert]
+        F -->|No| I
+    end
+
+    subgraph Alert["Alert Workflow"]
+        H --> J[Display Alert in EHR]
+        J --> K{Clinician Action}
+        K -->|Accept| L[One-Click Add<br/>to Problem List]
+        K -->|Override| M[Select Override Reason]
+        K -->|Defer| N[Snooze 30 Days]
+        L --> O[Auto-Order<br/>Follow-up Labs]
+    end
+
+    L --> P[Audit Log]
+    M --> P
+    N --> P
+
+    style H fill:#fff2cc,stroke:#d6b656
+    style J fill:#fff2cc,stroke:#d6b656
+    style L fill:#d5e8d4,stroke:#82b366
+    style P fill:#dae8fc,stroke:#6c8ebf
+        </div>
+    </div>
+
+    <h2>Alert Notification Flow</h2>
+    <div class="diagram-container">
+        <div class="mermaid">
+flowchart LR
+    subgraph Trigger["Alert Trigger"]
+        A[Lab Result Meets<br/>ADA Criteria] --> B[Generate Alert]
+    end
+
+    subgraph Classification["Classification"]
+        B --> C{Criteria Count}
+        C -->|2+ Criteria| D[Diabetes Confirmed<br/>High Priority]
+        C -->|1 Criterion| E[Diabetes Likely<br/>Medium Priority]
+        C -->|Prediabetes| F[Prediabetes<br/>Info Only]
+    end
+
+    subgraph Display["EHR Display"]
+        D --> G[Interruptive Alert]
+        E --> H[Chart Banner]
+        F --> I[Info Panel]
+    end
+
+    subgraph Actions["Suggested Actions"]
+        G --> J[Add E11.9 to Problem List]
+        G --> K[Order HbA1c in 3 months]
+        G --> L[Refer to Diabetes Education]
+        H --> J
+        H --> K
+        I --> M[Add R73.03 to Problem List]
+        I --> N[Refer to DPP]
+    end
+
+    style D fill:#f8cecc,stroke:#b85450
+    style E fill:#fff2cc,stroke:#d6b656
+    style F fill:#dae8fc,stroke:#6c8ebf
+        </div>
+    </div>
+
+    <div class="legend">
+        <h3>Workflow Legend</h3>
+        <div class="legend-item"><span style="display:inline-block;width:20px;height:20px;background:#d5e8d4;border:1px solid #82b366;vertical-align:middle;margin-right:5px;"></span> Successful Action</div>
+        <div class="legend-item"><span style="display:inline-block;width:20px;height:20px;background:#fff2cc;border:1px solid #d6b656;vertical-align:middle;margin-right:5px;"></span> Alert/Decision</div>
+        <div class="legend-item"><span style="display:inline-block;width:20px;height:20px;background:#f8cecc;border:1px solid #b85450;vertical-align:middle;margin-right:5px;"></span> High Priority</div>
+        <div class="legend-item"><span style="display:inline-block;width:20px;height:20px;background:#dae8fc;border:1px solid #6c8ebf;vertical-align:middle;margin-right:5px;"></span> System/Automated</div>
+    </div>
+
+    <script>
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            securityLevel: 'loose',
+            flowchart: {
+                useMaxWidth: true,
+                htmlLabels: true,
+                curve: 'basis'
+            }
+        });
+    </script>
+</body>
+</html>

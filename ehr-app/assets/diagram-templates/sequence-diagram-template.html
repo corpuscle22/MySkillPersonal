@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Integration Sequence: [WORKFLOW_NAME]</title>
+    <meta charset="UTF-8">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; background: #f5f5f5; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        .diagram-container { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 20px; }
+        .mermaid { text-align: center; }
+        .description { padding: 15px; background: #e8f4f8; border-radius: 8px; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Integration Sequence Diagrams</h1>
+
+    <h2>1. CDS Hooks Workflow</h2>
+    <div class="description">
+        <strong>Trigger:</strong> Clinician opens patient chart or signs order<br>
+        <strong>Response Time SLA:</strong> &lt; 500ms
+    </div>
+    <div class="diagram-container">
+        <div class="mermaid">
+sequenceDiagram
+    autonumber
+    participant EHR as EHR (Epic/Cerner)
+    participant CDS as CDS Hooks Service
+    participant Engine as Clinical Logic Engine
+    participant DB as Application DB
+
+    Note over EHR,DB: patient-view or order-sign hook triggered
+
+    EHR->>CDS: POST /cds-services/{service-id}
+    Note right of EHR: Hook request with context,<br/>prefetch data, FHIR authorization
+
+    CDS->>Engine: Evaluate clinical rules
+    Engine->>Engine: Apply decision logic
+    Engine->>DB: Log evaluation (audit)
+    Engine-->>CDS: Classification result
+
+    alt Alert Triggered
+        CDS-->>EHR: 200 OK with Cards[]
+        Note left of CDS: Card with suggestions,<br/>links, override reasons
+        EHR->>EHR: Display alert to clinician
+    else No Alert
+        CDS-->>EHR: 200 OK with empty Cards[]
+    end
+        </div>
+    </div>
+
+    <h2>2. SMART on FHIR Launch</h2>
+    <div class="description">
+        <strong>Trigger:</strong> Clinician launches embedded application from EHR<br>
+        <strong>Flow:</strong> EHR Launch (with launch context)
+    </div>
+    <div class="diagram-container">
+        <div class="mermaid">
+sequenceDiagram
+    autonumber
+    participant Clinician
+    participant EHR as EHR System
+    participant App as SMART App
+    participant Auth as Authorization Server
+    participant FHIR as FHIR Server
+
+    Clinician->>EHR: Click "Launch App" in patient chart
+    EHR->>App: GET /launch?iss={fhir-url}&launch={token}
+    App->>Auth: GET /authorize?response_type=code&...
+    Auth->>Clinician: Authorization prompt (if required)
+    Clinician->>Auth: Approve access
+    Auth->>App: Redirect with authorization code
+    App->>Auth: POST /token (exchange code)
+    Auth-->>App: access_token, patient, encounter
+
+    loop Data Queries
+        App->>FHIR: GET /Patient/{id}, /Observation?...
+        FHIR-->>App: FHIR Resources
+    end
+
+    App->>Clinician: Display application UI
+        </div>
+    </div>
+
+    <h2>3. HL7v2 Message Processing</h2>
+    <div class="description">
+        <strong>Trigger:</strong> ADT event (admission, transfer, discharge) or ORU result<br>
+        <strong>Processing:</strong> Near real-time message handling
+    </div>
+    <div class="diagram-container">
+        <div class="mermaid">
+sequenceDiagram
+    autonumber
+    participant EHR as EHR System
+    participant Interface as Interface Engine
+    participant Parser as Message Parser
+    participant Engine as Clinical Logic Engine
+    participant Notify as Notification Service
+
+    EHR->>Interface: HL7v2 Message (MLLP)
+    Note right of EHR: ADT^A01, ORU^R01, etc.
+
+    Interface->>Interface: Validate message
+    Interface->>Parser: Parse HL7v2 segments
+    Parser->>Parser: Extract clinical data
+    Parser->>Engine: Trigger rule evaluation
+
+    Engine->>Engine: Apply clinical logic
+
+    alt Alert Condition Met
+        Engine->>Notify: Send notification
+        Notify->>Notify: Route to appropriate channel
+        Note right of Notify: Pager, EHR inbox,<br/>email, etc.
+    end
+
+    Interface-->>EHR: ACK (acknowledgment)
+        </div>
+    </div>
+
+    <script>
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            securityLevel: 'loose',
+            sequence: {
+                diagramMarginX: 50,
+                diagramMarginY: 10,
+                actorMargin: 50,
+                width: 150,
+                height: 65,
+                boxMargin: 10,
+                useMaxWidth: true
+            }
+        });
+    </script>
+</body>
+</html>
