@@ -66,10 +66,10 @@ def generate_workflow_diagram(product_name: str, output_path: Path):
             drawpyo.diagram.Edge(page=page, source=nodes[i], target=nodes[i+1])
         
         file.write()
-        print(f"✅ Workflow diagram saved to {output_path}")
+        print(f"[OK] Workflow diagram saved to {output_path}")
         return True
     except Exception as e:
-        print(f"❌ Failed to generate workflow diagram: {e}")
+        print(f"[ERROR] Failed to generate workflow diagram: {e}")
         return False
 
 
@@ -93,10 +93,10 @@ def generate_system_diagram(product_name: str, output_path: Path):
         drawpyo.diagram.Edge(page=page, source=actuator, target=output)
         
         file.write()
-        print(f"✅ System diagram saved to {output_path}")
+        print(f"[OK] System diagram saved to {output_path}")
         return True
     except Exception as e:
-        print(f"❌ Failed to generate system diagram: {e}")
+        print(f"[ERROR] Failed to generate system diagram: {e}")
         return False
 
 
@@ -116,7 +116,7 @@ def generate_schematic_images(product_name: str, images_dir: Path):
         
         concept_path = images_dir / f"{product_name.lower().replace(' ', '_')}_concept.png"
         img.save(concept_path)
-        print(f"✅ Concept image saved to {concept_path}")
+        print(f"[OK] Concept image saved to {concept_path}")
         
         # System Block Diagram Image
         img2 = Image.new('RGB', (800, 400), color='white')
@@ -134,11 +134,11 @@ def generate_schematic_images(product_name: str, images_dir: Path):
         
         system_path = images_dir / f"{product_name.lower().replace(' ', '_')}_system.png"
         img2.save(system_path)
-        print(f"✅ System diagram image saved to {system_path}")
+        print(f"[OK] System diagram image saved to {system_path}")
         
         return [concept_path, system_path]
     except Exception as e:
-        print(f"❌ Failed to generate schematic images: {e}")
+        print(f"[ERROR] Failed to generate schematic images: {e}")
         return []
 
 
@@ -206,10 +206,10 @@ def generate_word_document(product_name: str, description: str, images: list, do
         safe_name = product_name.lower().replace(' ', '_')
         output_path = documents_dir / f"{safe_name}_plan.docx"
         doc.save(output_path)
-        print(f"✅ Word document saved to {output_path}")
+        print(f"[OK] Word document saved to {output_path}")
         return output_path
     except Exception as e:
-        print(f"❌ Failed to generate Word document: {e}")
+        print(f"[ERROR] Failed to generate Word document: {e}")
         return None
 
 
@@ -222,7 +222,7 @@ def main():
     product_name = args.product_name
     description = args.description
     
-    print(f"\n🚀 Generating plan for: {product_name}")
+    print(f"\n[STARTING] Generating plan for: {product_name}")
     print("=" * 50)
     
     # Create product-specific output folder
@@ -242,13 +242,13 @@ def main():
     docx_path = generate_word_document(product_name, description, images, product_dir)
     
     print("\n" + "=" * 50)
-    print(f"📁 All outputs saved to: {product_dir}")
+    print(f"[FOLDER] All outputs saved to: {product_dir}")
     print(f"   - {safe_name}_workflow.drawio")
     print(f"   - {safe_name}_system.drawio")
     print(f"   - {safe_name}_concept.png")
     print(f"   - {safe_name}_system.png")
     print(f"   - {safe_name}_plan.docx")
-    print("\n✅ Plan generation complete!")
+    print("\n[DONE] Plan generation complete!")
 
 
 if __name__ == "__main__":

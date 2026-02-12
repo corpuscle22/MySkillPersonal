@@ -1,0 +1,43 @@
+<mxfile host="Drawpyo" modified="2026-02-10T00:47:33" agent="Python 3.13, Drawpyo 0.23" version="21.6.5" type="device">
+  <diagram name="MedSync Smart Dispenser Workflow" id="1955809985264">
+    <mxGraphModel dx="2037" dy="830" grid="1" gridSize="10" guides="1" toolTips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1955809986272" value="1. Conceptualize &amp; Design" style="whiteSpace=wrap;rounded=0;dashed=0;" vertex="1" parent="1">
+  <mxGeometry x="100" y="50" width="180" height="50" as="geometry" />
+</mxCell>
+        <mxCell id="1955785067088" value="2. IP Check" style="whiteSpace=wrap;rounded=0;dashed=0;" vertex="1" parent="1">
+  <mxGeometry x="100" y="130" width="180" height="50" as="geometry" />
+</mxCell>
+        <mxCell id="1955785067728" value="3. Technical Planning" style="whiteSpace=wrap;rounded=0;dashed=0;" vertex="1" parent="1">
+  <mxGeometry x="100" y="210" width="180" height="50" as="geometry" />
+</mxCell>
+        <mxCell id="1955785068688" value="4. Prototype" style="whiteSpace=wrap;rounded=0;dashed=0;" vertex="1" parent="1">
+  <mxGeometry x="100" y="290" width="180" height="50" as="geometry" />
+</mxCell>
+        <mxCell id="1955785069328" value="5. Manufacturing" style="whiteSpace=wrap;rounded=0;dashed=0;" vertex="1" parent="1">
+  <mxGeometry x="100" y="370" width="180" height="50" as="geometry" />
+</mxCell>
+        <mxCell id="1955785069968" value="6. Business &amp; Legal" style="whiteSpace=wrap;rounded=0;dashed=0;" vertex="1" parent="1">
+  <mxGeometry x="100" y="450" width="180" height="50" as="geometry" />
+</mxCell>
+        <mxCell id="1955809987280" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;" edge="1" parent="1" source="1955809986272" target="1955785067088">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+        <mxCell id="1955785070928" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;" edge="1" parent="1" source="1955785067088" target="1955785067728">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+        <mxCell id="1955785071888" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;" edge="1" parent="1" source="1955785067728" target="1955785068688">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+        <mxCell id="1955785072848" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;" edge="1" parent="1" source="1955785068688" target="1955785069328">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+        <mxCell id="1955785073488" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;jettySize=auto;" edge="1" parent="1" source="1955785069328" target="1955785069968">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
