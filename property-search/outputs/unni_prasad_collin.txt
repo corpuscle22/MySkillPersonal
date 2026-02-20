@@ -1,0 +1,45 @@
+================================================================================
+PROPERTY SEARCH RESULTS
+County: Collin Central Appraisal District
+Source: socrata
+Search: owner = 'UNNI PRASAD'
+Time: 2026-02-19T16:30:49.024605
+Results: 1
+================================================================================
+
+--- Record 1 ---
+  Owner Name: UNNI PRASAD KRISHNAN & SMITHA MOHAN
+  Situs Address: 12376 COTTAGE LN , FRISCO, TX 75035
+  Owner Address: 12376 COTTAGE LN, FRISCO, TX, 75035-5464
+  Property Id: 2775436
+  Market Value: $670,287
+  Appraised Value: $670,287
+  Assessed Value: $522,500
+  Year Built: 2019
+  Main Area Sqft: 4307
+  Legal Description: COLLINSBROOK FARM PHASE 1, BLK D, LOT 29
+  Deed Number: 20200331000464950
+  Deed Date: 2020-03-30T00:00:00.000
+  Geo Id: R-11483-00D-0290-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1141686
+  Deed Type: SWD
+  Improvement Class: RV8
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 135000
+  Improvement Value: 535287
+  Hs Cap Loss: 147787
+  Prev Market Value: 475000
+  Prev Appraised Value: 475000
+  School District: SPR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SPR,CFR
+  Neighborhood Code: N11483
+  Map Id: 064.J
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+================================================================================

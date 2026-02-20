@@ -1,0 +1,39 @@
+================================================================================
+PROPERTY SEARCH RESULTS
+County: Collin Central Appraisal District
+Source: socrata
+Search: owner = 'BADI ARUN'
+Time: 2026-02-19T16:37:26.499422
+Results: 1
+================================================================================
+
+--- Record 1 ---
+  Owner Name: BADI ARUNKUMAR N &
+  Situs Address: SHERLEY LN , MELISSA, TX 75454
+  Owner Address: 4517 SOUTHGATE DR, PLANO, TX, 75024-2138
+  Property Id: 457945
+  Market Value: $694,200
+  Appraised Value: $1,967
+  Assessed Value: $1,967
+  Land Size Sqft: 503989.20
+  Legal Description: ABS A0033 D E W BABB SURVEY, SHEET 2, TRACT 150, 11.57 ACRES
+  Deed Number: 20140428000406990
+  Deed Date: 2014-04-24T00:00:00.000
+  Geo Id: R-6033-002-1500-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Land
+  Owner Id: 912945
+  Deed Type: WD
+  Land Size Acres: 11.5700
+  Land Value: 694200
+  Prev Market Value: 636350
+  Prev Appraised Value: 1932
+  School District: SML
+  Entity Codes: GCN,JCN,SML
+  Neighborhood Code: A0033
+  Map Id: 038.F
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+================================================================================

@@ -1,0 +1,45 @@
+================================================================================
+PROPERTY SEARCH RESULTS
+County: Collin Central Appraisal District
+Source: socrata
+Search: owner = 'GOLDEN SERINA'
+Time: 2026-02-19T16:35:10.335819
+Results: 1
+================================================================================
+
+--- Record 1 ---
+  Owner Name: GOLDEN SERINA & CHRISTOPHER LEE
+  Situs Address: 12358 COTTAGE LN , FRISCO, TX 75035
+  Owner Address: 12358 COTTAGE LN, FRISCO, TX, 75035-5464
+  Property Id: 2775437
+  Market Value: $731,495
+  Appraised Value: $731,495
+  Assessed Value: $731,495
+  Year Built: 2020
+  Main Area Sqft: 4275
+  Legal Description: COLLINSBROOK FARM PHASE 1, BLK D, LOT 30
+  Deed Number: 20210412000730850
+  Deed Date: 2021-04-09T00:00:00.000
+  Geo Id: R-11483-00D-0300-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1186966
+  Deed Type: SWD
+  Improvement Class: RV8
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 141750
+  Improvement Value: 589745
+  Prev Market Value: 248222
+  Prev Appraised Value: 248222
+  School District: SPR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SPR,CFR
+  Neighborhood Code: N11483
+  Map Id: 064.J
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+================================================================================

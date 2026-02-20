@@ -1,0 +1,1689 @@
+================================================================================
+PROPERTY SEARCH RESULTS
+County: Collin Central Appraisal District
+Source: socrata
+Search: owner = 'BADI'
+Time: 2026-02-19T16:37:29.688203
+Results: 50
+================================================================================
+
+--- Record 1 ---
+  Owner Name: ABADIA BRIAN & KATRINA
+  Situs Address: 1203 GREENVILLE RD , MCKINNEY, TX 75069
+  Owner Address: 1203 GREENVILLE RD, MCKINNEY, TX, 75069-5917
+  Property Id: 1064966
+  Market Value: $78,375
+  Appraised Value: $78,375
+  Assessed Value: $54,450
+  Land Size Sqft: 12632.00
+  Legal Description: ABS A0248 WILLIAM DAVIS SURVEY, SHEET 3, TRACT 217, .29 ACRES
+  Deed Number: 20190104000016600
+  Deed Date: 2019-01-03T00:00:00.000
+  Geo Id: R-6248-003-2170-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1092911
+  Deed Type: WD
+  Land Size Acres: 0.2900
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 78375
+  Hs Cap Loss: 23925
+  Prev Market Value: 49500
+  Prev Appraised Value: 49500
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Neighborhood Code: A0248
+  Map Id: 068.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 2 ---
+  Owner Name: ABADIA BRIAN & KATRINA
+  Situs Address: 1203 GREENVILLE RD , MCKINNEY, TX 75069
+  Owner Address: 1203 GREENVILLE RD, MCKINNEY, TX, 75069-5917
+  Property Id: 1106047
+  Market Value: $309,091
+  Appraised Value: $309,091
+  Assessed Value: $257,376
+  Year Built: 1959
+  Main Area Sqft: 1988
+  Land Size Sqft: 11369.16
+  Legal Description: C N MALONE, BLK 1, LOT 1B
+  Deed Number: 20190104000016600
+  Deed Date: 2019-01-03T00:00:00.000
+  Geo Id: R-0904-001-001B-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1092911
+  Deed Type: WD
+  Improvement Class: RF5
+  Land Size Acres: 0.2610
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 71250
+  Improvement Value: 237841
+  Hs Cap Loss: 51715
+  Prev Market Value: 233978
+  Prev Appraised Value: 233978
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Neighborhood Code: N0832ERF
+  Map Id: 068.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 3 ---
+  Owner Name: ABADIA STEVEN & THIANNY ABADIA
+  Situs Address: 2208 BROOKVIEW DR , MCKINNEY, TX 75072
+  Owner Address: 1203 GREENVILLE RD, MCKINNEY, TX, 75069-5917
+  Property Id: 2016170
+  Market Value: $258,501
+  Appraised Value: $258,501
+  Assessed Value: $258,501
+  Year Built: 1996
+  Main Area Sqft: 980
+  Legal Description: NORTH BROOK ESTATES, BLK D, LOT 18
+  Deed Number: 20201020001823460
+  Deed Date: 2020-10-19T00:00:00.000
+  Geo Id: R-3039-00D-0180-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1165733
+  Deed Type: WD
+  Improvement Class: RV6
+  Land Value: 61750
+  Improvement Value: 196751
+  Prev Market Value: 194832
+  Prev Appraised Value: 194832
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Neighborhood Code: N3039
+  Map Id: 067.L
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 4 ---
+  Owner Name: ABADI BIJAN & FERESHTEH
+  Situs Address: 8200 STONE RIDGE DR , PLANO, TX 75025
+  Owner Address: 8200 STONE RIDGE DR, PLANO, TX, 75025-3979
+  Property Id: 2052284
+  Market Value: $558,283
+  Appraised Value: $558,283
+  Assessed Value: $469,439
+  Year Built: 1999
+  Main Area Sqft: 3281
+  Legal Description: SPRING RIDGE PHASE IV, BLK K, LOT 13
+  Deed Date: 2002-02-07T00:00:00.000
+  Geo Id: R-3651-00K-0130-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 506690
+  Deed Type: WD
+  Improvement Class: RV7P
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 145000
+  Improvement Value: 413283
+  Hs Cap Loss: 88844
+  Prev Market Value: 426763
+  Prev Appraised Value: 426763
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N3592
+  Map Id: 096.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 5 ---
+  Owner Name: ABADI BIJAN & FERESHTEH
+  Situs Address: 1801 W SPRING CREEK PKWY G2, PLANO, TX 75023
+  Owner Address: 8200 STONE RIDGE DR, PLANO, TX, 75025-3979
+  Property Id: 1325122
+  Market Value: $196,629
+  Appraised Value: $196,629
+  Assessed Value: $196,629
+  Year Built: 1982
+  Main Area Sqft: 1030
+  Legal Description: SPRINGWOOD CREEK SECTION ONE, BLDG G, UNIT 2
+  Deed Number: 20160624000798660
+  Deed Date: 2016-06-22T00:00:00.000
+  Geo Id: R-0647-007-0020-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 506690
+  Deed Type: WD
+  Improvement Class: CND2
+  Land Value: 57200
+  Improvement Value: 139429
+  Prev Market Value: 176000
+  Prev Appraised Value: 176000
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0647
+  Map Id: 113.B
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 6 ---
+  Owner Name: ABADI BIJAN & FERESHTEH
+  Situs Address: 3101 TOWNBLUFF DR 212, PLANO, TX 75075
+  Owner Address: 8200 STONE RIDGE DR, PLANO, TX, 75025-3979
+  Property Id: 1523088
+  Market Value: $178,559
+  Appraised Value: $178,559
+  Assessed Value: $178,559
+  Year Built: 1982
+  Main Area Sqft: 853
+  Legal Description: TOWNBLUFF CONDOMINIUMS, BLDG B, UNIT 212
+  Deed Number: 20191011001278380
+  Deed Date: 2019-10-04T00:00:00.000
+  Geo Id: R-0676-002-2120-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1122886
+  Deed Type: WD
+  Improvement Class: CND2
+  Land Value: 51700
+  Improvement Value: 126859
+  Prev Market Value: 150436
+  Prev Appraised Value: 150436
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0676
+  Map Id: 112.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 7 ---
+  Owner Name: ABADI BIJAN M
+  Situs Address: 6845 FOREST HILLS DR , PLANO, TX 75023
+  Owner Address: 8200 STONE RIDGE DR, PLANO, TX, 75025-3979
+  Property Id: 2008599
+  Market Value: $354,329
+  Appraised Value: $354,329
+  Assessed Value: $354,329
+  Year Built: 1995
+  Main Area Sqft: 1678
+  Legal Description: TRAILS THE, BLK D, LOT 53
+  Deed Number: 20130918001315320
+  Deed Date: 2013-09-16T00:00:00.000
+  Geo Id: R-2947-00D-0530-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 904533
+  Deed Type: WD
+  Improvement Class: RV7P
+  Land Value: 90000
+  Improvement Value: 264329
+  Prev Market Value: 288684
+  Prev Appraised Value: 288684
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: S2947
+  Map Id: 096.Z
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 8 ---
+  Owner Name: ABADI BIJAN M &
+  Situs Address: 7216 RANDALL WAY , PLANO, TX 75025
+  Owner Address: 8200 STONE RIDGE DR, PLANO, TX, 75025-3979
+  Property Id: 1996387
+  Market Value: $438,000
+  Appraised Value: $438,000
+  Assessed Value: $438,000
+  Year Built: 1992
+  Main Area Sqft: 2630
+  Legal Description: CROSS CREEK WEST NO 1, BLK 3, LOT 18
+  Deed Number: 20160610000730870
+  Deed Date: 2016-06-09T00:00:00.000
+  Geo Id: R-2733-003-0180-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 991543
+  Deed Type: WD
+  Improvement Class: RV7
+  Land Value: 120000
+  Improvement Value: 318000
+  Prev Market Value: 353000
+  Prev Appraised Value: 353000
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N2722
+  Map Id: 097.U
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 9 ---
+  Owner Name: ABADI BIJAN M & FERESHIRE E
+  Situs Address: 3608 KALGAN CIR , PLANO, TX 75025
+  Owner Address: 8200 STONE RIDGE DR, PLANO, TX, 75025-3979
+  Property Id: 1999133
+  Market Value: $460,382
+  Appraised Value: $460,382
+  Assessed Value: $460,382
+  Year Built: 1993
+  Main Area Sqft: 1899
+  Legal Description: HIGHLAND RIDGE III, BLK B, LOT 19
+  Deed Number: 802470
+  Deed Date: 2006-06-05T00:00:00.000
+  Geo Id: R-2806-00B-0190-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 669129
+  Deed Type: WD
+  Improvement Class: RV8
+  Land Value: 137500
+  Improvement Value: 322882
+  Prev Market Value: 341670
+  Prev Appraised Value: 341670
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N2698
+  Map Id: 096.L
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 10 ---
+  Owner Name: ABADI BIJAN M & FERESHTEH E
+  Situs Address: 3041 SAWTOOTH DR , PLANO, TX 75025
+  Owner Address: 8200 STONE RIDGE DR, PLANO, TX, 75025-3979
+  Property Id: 2025577
+  Market Value: $404,000
+  Appraised Value: $404,000
+  Assessed Value: $404,000
+  Year Built: 1996
+  Main Area Sqft: 2289
+  Legal Description: COURTYARDS AT RUSSELL CREEK PHASE 1, BLK E, LOT 40
+  Deed Number: 924400
+  Deed Date: 2006-06-29T00:00:00.000
+  Geo Id: R-3174-00E-0400-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 671816
+  Deed Type: WD
+  Improvement Class: RV6P
+  Land Value: 90000
+  Improvement Value: 314000
+  Prev Market Value: 336000
+  Prev Appraised Value: 336000
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N3174
+  Map Id: 096.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 11 ---
+  Owner Name: ABADI BIJAN M & FERESHTEH E
+  Situs Address: 8444 PIPE STONE DR , PLANO, TX 75025
+  Owner Address: 8200 STONE RIDGE DR, PLANO, TX, 75025-3979
+  Property Id: 2025522
+  Market Value: $374,889
+  Appraised Value: $374,889
+  Assessed Value: $374,889
+  Year Built: 1996
+  Main Area Sqft: 1652
+  Legal Description: COURTYARDS AT RUSSELL CREEK PHASE 1, BLK D, LOT 12
+  Deed Number: 20091202001450440
+  Deed Date: 2009-11-30T00:00:00.000
+  Geo Id: R-3174-00D-0120-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 781712
+  Deed Type: WD
+  Improvement Class: RV6P
+  Land Value: 90000
+  Improvement Value: 284889
+  Prev Market Value: 302966
+  Prev Appraised Value: 302966
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N3174
+  Map Id: 096.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 12 ---
+  Owner Name: ABADIE ASHLEIGH &
+  Situs Address: 2741 WINDING CREEK RD , PROSPER, TX 75078
+  Owner Address: 2741 WINDING CREEK RD, PROSPER, TX, 75078-9518
+  Property Id: 2068821
+  Market Value: $1,105,777
+  Appraised Value: $1,105,777
+  Assessed Value: $946,451
+  Year Built: 2000
+  Main Area Sqft: 4755
+  Legal Description: GENTLE CREEK ESTATES PHASE ONE, BLK A, LOT 2
+  Deed Number: 2025000012654
+  Deed Date: 2025-02-01T00:00:00.000
+  Geo Id: R-3846-00A-0020-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1222354
+  Deed Type: SWDNL
+  Improvement Class: RV14
+  Has Pool: True
+  Land Size Acres: 1.3849
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 193886
+  Improvement Value: 911891
+  Hs Cap Loss: 159326
+  Prev Market Value: 860410
+  Prev Appraised Value: 860410
+  School District: SPR
+  City Code: CPR
+  Entity Codes: GCN,JCN,SPR,CPR
+  Neighborhood Code: N3846
+  Map Id: 048.C
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 13 ---
+  Owner Name: ABADI YOSEPH S
+  Situs Address: 3124 KINGSTON DR , RICHARDSON, TX 75082
+  Owner Address: 3124 KINGSTON DR, RICHARDSON, TX, 75082-4065
+  Property Id: 1994787
+  Market Value: $459,918
+  Appraised Value: $459,918
+  Assessed Value: $380,511
+  Year Built: 1993
+  Main Area Sqft: 2723
+  Legal Description: WYNDSOR ESTATES NO II, BLK H, LOT 1
+  Deed Number: 149040
+  Deed Date: 2007-01-29T00:00:00.000
+  Geo Id: R-2713-00H-0010-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 696236
+  Deed Type: WD
+  Improvement Class: RV7
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS,DV2
+  Land Value: 125400
+  Improvement Value: 334518
+  Hs Cap Loss: 79407
+  Prev Market Value: 345919
+  Prev Appraised Value: 345919
+  School District: SPL
+  City Code: CRC
+  Entity Codes: GCN,JCN,SPL,CRC
+  Neighborhood Code: N2550
+  Map Id: 132.F
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 14 ---
+  Owner Name: ALABBADI YAZEED
+  Situs Address: 2310 VIRGINIA PKWY 00120, MCKINNEY, TX 75071
+  Owner Address: 2310 VIRGINIA PKWY STE 120, MCKINNEY, TX, 75071-3555
+  Property Id: 2699060
+  Market Value: $44,946
+  Appraised Value: $44,946
+  Assessed Value: $44,946
+  Legal Description: BPP AT 2310 VIRGINIA PKWY
+  Geo Id: P-9000-214-0350-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 901018
+  Prev Market Value: 45111
+  Prev Appraised Value: 45111
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Map Id: 067.G
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 15 ---
+  Owner Name: ALBADIRY HASSANIAN & MEERAN
+  Situs Address: 11049 MILLVALE CT , FRISCO, TX 75035
+  Owner Address: 11049 MILLVALE CT, FRISCO, TX, 75035-3783
+  Property Id: 2073936
+  Market Value: $403,961
+  Appraised Value: $403,961
+  Assessed Value: $403,961
+  Year Built: 1999
+  Main Area Sqft: 2399
+  Legal Description: LAKES OF PRESTON VINEYARDS PHASE 2 THE, BLK C, LOT 4
+  Deed Number: 20210623001266770
+  Deed Date: 2021-06-17T00:00:00.000
+  Geo Id: R-3973-00C-0040-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1196387
+  Deed Type: WD
+  Improvement Class: RV6P
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 120000
+  Improvement Value: 283961
+  Prev Market Value: 318284
+  Prev Appraised Value: 318284
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N3972 2ST
+  Map Id: 079.R
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 16 ---
+  Owner Name: ALEISSA BADIR & NOUR MUHIALDIN
+  Situs Address: 5005 BERKLEY DR , MCKINNEY, TX 75070
+  Owner Address: 5005 BERKLEY DR, MCKINNEY, TX, 75070-8806
+  Property Id: 2673235
+  Market Value: $457,436
+  Appraised Value: $457,436
+  Assessed Value: $382,410
+  Year Built: 2011
+  Main Area Sqft: 2480
+  Land Size Sqft: 5950.00
+  Legal Description: VILLAGE PARK PHASE 2B, BLK E, LOT 2
+  Deed Number: 2024000034174
+  Deed Date: 2024-03-25T00:00:00.000
+  Geo Id: R-10138-00E-0020-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1026302
+  Deed Type: WD
+  Improvement Class: RV7
+  Land Size Acres: 0.1366
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 110000
+  Improvement Value: 347436
+  Hs Cap Loss: 75026
+  Prev Market Value: 347645
+  Prev Appraised Value: 347645
+  School District: SAL
+  City Code: CMC
+  Entity Codes: GCN,JCN,SAL,CMC
+  Neighborhood Code: N8446
+  Map Id: 082.F
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 17 ---
+  Owner Name: AL- RABADI KHALDOUN A & ZEIN AIED SWEIS
+  Situs Address: 1327 KINGSLEY CT , ALLEN, TX 75013
+  Owner Address: 1405 ANNA MARIE LN, ALLEN, TX, 75013-2811
+  Property Id: 2131190
+  Market Value: $377,119
+  Appraised Value: $377,119
+  Assessed Value: $377,119
+  Year Built: 2001
+  Main Area Sqft: 1815
+  Legal Description: GLENDOVER PARK PHASE VIII, BLK E, LOT 86
+  Deed Number: 20151216001568900
+  Deed Date: 2015-12-16T00:00:00.000
+  Geo Id: R-4782-00E-0860-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 973067
+  Deed Type: WDNL
+  Improvement Class: RV7
+  Land Value: 105000
+  Improvement Value: 272119
+  Prev Market Value: 281483
+  Prev Appraised Value: 281483
+  School District: SAL
+  City Code: CAL
+  Entity Codes: GCN,JCN,SAL,CAL
+  Neighborhood Code: N3763
+  Map Id: 082.S
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 18 ---
+  Owner Name: ANNAMANENI VENKATA NARAYANA & GEETHA VANI BADIPALLI
+  Situs Address: 10647 CAPISTRANO RD , FRISCO, TX 75035
+  Owner Address: 10647 CAPISTRANO RD, FRISCO, TX, 75035-5059
+  Property Id: 2757333
+  Market Value: $848,555
+  Appraised Value: $848,555
+  Assessed Value: $665,500
+  Year Built: 2018
+  Main Area Sqft: 4350
+  Land Size Sqft: 10018.80
+  Legal Description: MIRAMONTE PHASE 1B, BLK K, LOT 6
+  Deed Number: 20181120001431420
+  Deed Date: 2018-11-19T00:00:00.000
+  Geo Id: R-11250-00K-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1108134
+  Deed Type: SWD
+  Improvement Class: RV9
+  Land Size Acres: 0.2300
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 160000
+  Improvement Value: 688555
+  Hs Cap Loss: 183055
+  Prev Market Value: 605000
+  Prev Appraised Value: 605000
+  School District: SPR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SPR,CFR
+  Neighborhood Code: S11250
+  Map Id: 063.R
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 19 ---
+  Owner Name: ASGARI PARHAM & BAHAREH MOMENIABDOLABADI
+  Situs Address: 18155 WHISPERING GABLES LN , DALLAS, TX 75287
+  Owner Address: 18155 WHISPERING GABLES LN, DALLAS, TX, 75287-6665
+  Property Id: 1574558
+  Market Value: $269,467
+  Appraised Value: $269,467
+  Assessed Value: $269,467
+  Year Built: 1984
+  Main Area Sqft: 1327
+  Legal Description: BENT TREE GABLES, BLK 8/8705, LOT 39
+  Deed Number: 20210211000299170
+  Deed Date: 2021-02-08T00:00:00.000
+  Geo Id: R-1310-008-0390-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1180297
+  Deed Type: WD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 75000
+  Improvement Value: 194467
+  Prev Market Value: 244693
+  Prev Appraised Value: 244693
+  School District: SPL
+  City Code: CDA
+  Entity Codes: GCN,JCN,SPL,CDA
+  Neighborhood Code: S1310
+  Map Id: 126.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 20 ---
+  Owner Name: ASRABADI SHAHIN DOKHT ROSTAMI & DARYOUSH BOZORGCHAMI
+  Situs Address: 2400 JUPITER RD 6, PLANO, TX 75074
+  Owner Address: 2400 JUPITER RD UNIT 6, PLANO, TX, 75074-4961
+  Property Id: 1629429
+  Market Value: $143,155
+  Appraised Value: $143,155
+  Assessed Value: $143,155
+  Year Built: 1985
+  Main Area Sqft: 706
+  Legal Description: BRIARPARK VILLAGE #1, BLDG I, UNIT 6
+  Deed Number: 20220125000133070
+  Deed Date: 2022-01-21T00:00:00.000
+  Geo Id: R-1649-009-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1224652
+  Deed Type: WD
+  Improvement Class: CND2
+  Land Value: 40000
+  Improvement Value: 103155
+  Prev Market Value: 113415
+  Prev Appraised Value: 113415
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N1649A
+  Map Id: 114.Q
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 21 ---
+  Owner Name: BADI ARUNKUMAR N &
+  Situs Address: SHERLEY LN , MELISSA, TX 75454
+  Owner Address: 4517 SOUTHGATE DR, PLANO, TX, 75024-2138
+  Property Id: 457945
+  Market Value: $694,200
+  Appraised Value: $1,967
+  Assessed Value: $1,967
+  Land Size Sqft: 503989.20
+  Legal Description: ABS A0033 D E W BABB SURVEY, SHEET 2, TRACT 150, 11.57 ACRES
+  Deed Number: 20140428000406990
+  Deed Date: 2014-04-24T00:00:00.000
+  Geo Id: R-6033-002-1500-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Land
+  Owner Id: 912945
+  Deed Type: WD
+  Land Size Acres: 11.5700
+  Land Value: 694200
+  Prev Market Value: 636350
+  Prev Appraised Value: 1932
+  School District: SML
+  Entity Codes: GCN,JCN,SML
+  Neighborhood Code: A0033
+  Map Id: 038.F
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 22 ---
+  Owner Name: BADIA SAUMIL P & NIKITA
+  Situs Address: 8201 CHICKASAW TRL , MCKINNEY, TX 75070
+  Owner Address: 8201 CHICKASAW TRL, MCKINNEY, TX, 75070-7032
+  Property Id: 2584196
+  Market Value: $525,000
+  Appraised Value: $525,000
+  Assessed Value: $431,200
+  Year Built: 2011
+  Main Area Sqft: 3138
+  Legal Description: SETTLEMENT AT CRAIG RANCH, THE (CMC), BLK M, LOT 9
+  Deed Number: 2025000056146
+  Deed Date: 2025-05-01T00:00:00.000
+  Geo Id: R-8818-00M-0090-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 973040
+  Deed Type: WDNL
+  Improvement Class: RV9
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 157500
+  Improvement Value: 367500
+  Hs Cap Loss: 93800
+  Prev Market Value: 392000
+  Prev Appraised Value: 392000
+  School District: SFR
+  City Code: CMC
+  Entity Codes: GCN,JCN,SFR,CMC
+  Neighborhood Code: S8818N
+  Map Id: 081.G
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 23 ---
+  Owner Name: BADIDA DIVYAJA & ADITYA KUMAR PODILA
+  Situs Address: 13675 WICKHAM LN , FRISCO, TX 75035
+  Owner Address: 13675 WICKHAM LN, FRISCO, TX, 75035-1275
+  Property Id: 2762064
+  Market Value: $857,802
+  Appraised Value: $857,802
+  Assessed Value: $655,600
+  Year Built: 2019
+  Main Area Sqft: 3890
+  Legal Description: ESTATES AT SHADDOCK PARK PHASE 1, BLK F, LOT 21
+  Deed Number: 20191231001665390
+  Deed Date: 2019-12-30T00:00:00.000
+  Geo Id: R-11331-00F-0210-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1131456
+  Deed Type: SWD
+  Improvement Class: RV11
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 200000
+  Improvement Value: 657802
+  Hs Cap Loss: 202202
+  Prev Market Value: 596000
+  Prev Appraised Value: 596000
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N11331
+  Map Id: 080.G
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 24 ---
+  Owner Name: BADIEE MARJON
+  Situs Address: 1302 NEST PL , PLANO, TX 75093
+  Owner Address: 1302 NEST PL, PLANO, TX, 75093-2612
+  Property Id: 1609520
+  Market Value: $316,049
+  Appraised Value: $316,049
+  Assessed Value: $316,049
+  Year Built: 1981
+  Main Area Sqft: 1622
+  Land Size Sqft: 566.28
+  Legal Description: HIGHLANDS NORTH PHASE I, BLK D, LOT 1B
+  Deed Number: 20210514000978700
+  Deed Date: 2021-05-06T00:00:00.000
+  Geo Id: R-0256-004-001B-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1196048
+  Deed Type: WD
+  Improvement Class: RV6
+  Land Size Acres: 0.0130
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 60000
+  Improvement Value: 256049
+  Prev Market Value: 224620
+  Prev Appraised Value: 224620
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0256B2
+  Map Id: 112.W
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 25 ---
+  Owner Name: BADIEE REZA M
+  Situs Address: 1436 WIND CAVE CIR , PLANO, TX 75023
+  Owner Address: 1436 WIND CAVE CIR, PLANO, TX, 75023-7317
+  Property Id: 292828
+  Market Value: $268,551
+  Appraised Value: $268,551
+  Assessed Value: $241,842
+  Year Built: 1973
+  Main Area Sqft: 1601
+  Legal Description: PARK FOREST ADDITION NO 1, BLK A, LOT 10
+  Deed Date: 1999-04-09T00:00:00.000
+  Geo Id: R-0550-001-0100-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 415236
+  Deed Type: WD
+  Improvement Class: RV5
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 65000
+  Improvement Value: 203551
+  Hs Cap Loss: 26709
+  Prev Market Value: 219856
+  Prev Appraised Value: 219856
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0550
+  Map Id: 113.L
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 26 ---
+  Owner Name: BADIE FIROOZEH
+  Situs Address: 1815 VILLA DR , ALLEN, TX 75013
+  Owner Address: PO BOX 866532, PLANO, TX, 75086-6532
+  Property Id: 2609007
+  Market Value: $337,487
+  Appraised Value: $337,487
+  Assessed Value: $337,487
+  Year Built: 2011
+  Main Area Sqft: 1832
+  Legal Description: VILLAS OF COTTONWOOD CREEK PHASE 1, BLK F, LOT 4
+  Deed Number: 20210921001928150
+  Deed Date: 2021-09-14T00:00:00.000
+  Geo Id: R-9059-00F-0040-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1208894
+  Deed Type: WD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 77000
+  Improvement Value: 260487
+  Prev Market Value: 271534
+  Prev Appraised Value: 271534
+  School District: SAL
+  City Code: CAL
+  Entity Codes: GCN,JCN,SAL,CAL
+  Neighborhood Code: N9059-TH
+  Map Id: 083.S
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 27 ---
+  Owner Name: BADII FARNAZ
+  Situs Address: 7905 PRESCOTT DR , PLANO, TX 75025
+  Owner Address: 7905 PRESCOTT DR, PLANO, TX, 75025-2842
+  Property Id: 1759902
+  Market Value: $360,000
+  Appraised Value: $360,000
+  Assessed Value: $332,750
+  Year Built: 1986
+  Main Area Sqft: 2287
+  Legal Description: CROSS CREEK NO 6, BLK 14, LOT 10
+  Deed Number: 14087
+  Deed Date: 2004-01-16T00:00:00.000
+  Geo Id: R-1759-014-0100-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 575078
+  Deed Type: SWD
+  Improvement Class: RV6
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 85000
+  Improvement Value: 275000
+  Hs Cap Loss: 27250
+  Prev Market Value: 310511
+  Prev Appraised Value: 310511
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N1759
+  Map Id: 097.Q
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 28 ---
+  Owner Name: BADIKIAN KRISTINA
+  Situs Address: 770 ROCKEFELLER LN , ALLEN, TX 75002
+  Owner Address: 770 ROCKEFELLER LN, ALLEN, TX, 75002-5242
+  Property Id: 1923743
+  Market Value: $407,763
+  Appraised Value: $407,763
+  Assessed Value: $340,995
+  Year Built: 1990
+  Main Area Sqft: 2561
+  Legal Description: HERITAGE PARK PHASE ONE, BLK 2, LOT 91
+  Deed Number: 20080929001161080
+  Deed Date: 2008-09-25T00:00:00.000
+  Geo Id: R-2148-002-0910-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 751136
+  Deed Type: WD
+  Improvement Class: RV6
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 100000
+  Improvement Value: 307763
+  Hs Cap Loss: 66768
+  Prev Market Value: 309995
+  Prev Appraised Value: 309995
+  School District: SAL
+  City Code: CAL
+  Entity Codes: GCN,JCN,SAL,CAL
+  Neighborhood Code: N2086
+  Map Id: 099.Q
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 29 ---
+  Owner Name: BADILLO BARBARA &
+  Situs Address: 1524 WILLIAMSBURG DR , PLANO, TX 75074
+  Owner Address: 1524 WILLIAMSBURG DR, PLANO, TX, 75074-6040
+  Property Id: 1740
+  Market Value: $263,404
+  Appraised Value: $263,404
+  Assessed Value: $236,482
+  Year Built: 1968
+  Main Area Sqft: 1496
+  Legal Description: ARMSTRONG PARK NO 1, BLK 2, LOT 13
+  Deed Number: 20120215000173900
+  Deed Date: 2012-02-10T00:00:00.000
+  Geo Id: R-0013-002-0130-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 839074
+  Deed Type: WD
+  Improvement Class: RV4
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 70000
+  Improvement Value: 193404
+  Hs Cap Loss: 26922
+  Prev Market Value: 214984
+  Prev Appraised Value: 214984
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0013
+  Map Id: 114.P
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 30 ---
+  Owner Name: BADILLO FAREL JR
+  Situs Address: 422 WINCHESTER DR , CELINA, TX 75009
+  Owner Address: 422 WINCHESTER DR, CELINA, TX, 75009-4661
+  Property Id: 2705838
+  Market Value: $365,153
+  Appraised Value: $365,153
+  Assessed Value: $281,340
+  Year Built: 2015
+  Main Area Sqft: 1951
+  Land Size Sqft: 7000.00
+  Legal Description: CARTER RANCH - PHASE VB, THE (CCL), BLK E, LOT 20
+  Deed Number: 20160203000128170
+  Deed Date: 2016-01-29T00:00:00.000
+  Geo Id: R-10585-00E-0200-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 977624
+  Deed Type: WD
+  Improvement Class: RV6
+  Land Size Acres: 0.1607
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 80000
+  Improvement Value: 285153
+  Hs Cap Loss: 83813
+  Prev Market Value: 255764
+  Prev Appraised Value: 255764
+  School District: SCL
+  City Code: CCL
+  Entity Codes: GCN,JCN,SCL,CCL
+  Neighborhood Code: N10435
+  Map Id: 031.V
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 31 ---
+  Owner Name: BADILLO GABRIEL & JESSICA
+  Situs Address: 1904 ANN ST , CELINA, TX 75009
+  Owner Address: 1904 ANN ST, CELINA, TX, 75009-1816
+  Property Id: 2798038
+  Market Value: $546,028
+  Appraised Value: $546,028
+  Assessed Value: $440,776
+  Year Built: 2019
+  Main Area Sqft: 3693
+  Land Size Sqft: 7500.00
+  Legal Description: GREENWAY PHASE 1 ADDITION, BLK H, LOT 4
+  Deed Number: 20200127000115510
+  Deed Date: 2020-01-27T00:00:00.000
+  Geo Id: R-11842-00H-0040-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1134311
+  Deed Type: SWD
+  Improvement Class: RV7
+  Has Pool: True
+  Land Size Acres: 0.1722
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 105000
+  Improvement Value: 441028
+  Hs Cap Loss: 105252
+  Prev Market Value: 400705
+  Prev Appraised Value: 400705
+  School District: SCL
+  City Code: CCL
+  Entity Codes: GCN,JCN,SCL,CCL
+  Neighborhood Code: S11842
+  Map Id: 031.J
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 32 ---
+  Owner Name: BADILLO HERMAN L TRUST
+  Situs Address: 2720 ZOELLER DR , PLANO, TX 75025
+  Owner Address: 2720 ZOELLER DR, PLANO, TX, 75025-5180
+  Property Id: 2054176
+  Market Value: $349,796
+  Appraised Value: $349,796
+  Assessed Value: $292,279
+  Year Built: 2000
+  Main Area Sqft: 1705
+  Legal Description: RIDGEVIEW RANCH ADDITION PHASE II, BLK D, LOT 6
+  Deed Number: 2025000166624
+  Deed Date: 2025-12-23T00:00:00.000
+  Geo Id: R-3676-00D-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1230452
+  Deed Type: WD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 104500
+  Improvement Value: 245296
+  Hs Cap Loss: 57517
+  Prev Market Value: 265708
+  Prev Appraised Value: 265708
+  School District: SFR
+  City Code: CPL
+  Entity Codes: GCN,JCN,SFR,CPL
+  Neighborhood Code: N3377
+  Map Id: 096.H
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 33 ---
+  Owner Name: BADILLO JOSE MARIO
+  Situs Address: 3409 N AVE , PLANO, TX 75074
+  Owner Address: 3409 AVENUE N, PLANO, TX, 75074-2422
+  Property Id: 270165
+  Market Value: $99,161
+  Appraised Value: $99,161
+  Assessed Value: $99,161
+  Legal Description: VILLAGE NORTH ADDITION FIRST SECTION, BLK 1, LOT 10; UDI
+  Deed Date: 1999-03-23T00:00:00.000
+  Geo Id: R-0505-001-0100-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 414298
+  Deed Type: WD
+  Land Value: 29250
+  Improvement Value: 69911
+  Prev Market Value: 94128
+  Prev Appraised Value: 94128
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0505
+  Map Id: 114.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 34 ---
+  Owner Name: BADILLO-MENDEZ JOSE M & MARIA MENDOZA GARCIA
+  Situs Address: 567 BELL DR , ALLEN, TX 75002
+  Owner Address: 567 BELL DR, ALLEN, TX, 75002-4044
+  Property Id: 508392
+  Market Value: $276,586
+  Appraised Value: $276,586
+  Assessed Value: $276,586
+  Year Built: 1977
+  Main Area Sqft: 1518
+  Legal Description: WINDRIDGE NO 2, BLK 13, LOT 14
+  Deed Number: 20120614000711260
+  Deed Date: 2012-06-11T00:00:00.000
+  Geo Id: R-1151-013-0140-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 850359
+  Deed Type: WD
+  Improvement Class: RV4
+  Land Value: 58500
+  Improvement Value: 218086
+  Prev Market Value: 228527
+  Prev Appraised Value: 228527
+  School District: SAL
+  City Code: CAL
+  Entity Codes: GCN,JCN,SAL,CAL
+  Neighborhood Code: N1150
+  Map Id: 099.N
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 35 ---
+  Owner Name: BADILLO MIGUEL ANGEL
+  Situs Address: 1202 COTTONWOOD TRL , ANNA, TX 75409
+  Owner Address: 1202 COTTONWOOD TRL, ANNA, TX, 75409-4563
+  Property Id: 2610304
+  Market Value: $310,033
+  Appraised Value: $310,033
+  Assessed Value: $257,683
+  Year Built: 2012
+  Main Area Sqft: 1686
+  Legal Description: OAK HOLLOW ESTATES PHASE 4, BLK T, LOT 49; REPLAT
+  Deed Number: 20120904001100960
+  Deed Date: 2012-08-31T00:00:00.000
+  Geo Id: R-9141-00T-0490-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 857467
+  Deed Type: WD
+  Improvement Class: RV5
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 94875
+  Improvement Value: 215158
+  Hs Cap Loss: 52350
+  Prev Market Value: 234257
+  Prev Appraised Value: 234257
+  School District: SAN
+  City Code: CAN
+  Entity Codes: GCN,JCN,SAN,CAN
+  Neighborhood Code: N8324
+  Map Id: 021.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 36 ---
+  Owner Name: BADILLO MIRIAM & ALBERTO PACHECO MONTOYA &
+  Situs Address: 339 MAGNOLIA DR , PRINCETON, TX 75407
+  Owner Address: 339 MAGNOLIA DR, PRINCETON, TX, 75407-0450
+  Property Id: 2761195
+  Market Value: $154,227
+  Appraised Value: $154,227
+  Assessed Value: $154,227
+  Legal Description: CYPRESS BEND NO. 3, BLK K, LOT 10; * UDI2021 *, Undivided Interest 50.0000000000%
+  Deed Number: 20200916001567260
+  Deed Date: 2020-09-15T00:00:00.000
+  Geo Id: R-11315-00K-0100-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1161559
+  Deed Type: WD
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 48400
+  Improvement Value: 105827
+  Prev Market Value: 120985
+  Prev Appraised Value: 120985
+  School District: SPN
+  City Code: CPN
+  Entity Codes: GCN,JCN,SPN,CPN
+  Neighborhood Code: N8803
+  Map Id: 070.V
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 37 ---
+  Owner Name: BAGHDADI HOOSHMAND & NADEREH KHALAJABADI
+  Situs Address: 104 MOUNT OLIVE AVE , MCKINNEY, TX 75072
+  Owner Address: 104 MOUNT OLIVE AVE, MCKINNEY, TX, 75072-3703
+  Property Id: 2736957
+  Market Value: $461,006
+  Appraised Value: $461,006
+  Assessed Value: $355,529
+  Year Built: 2016
+  Main Area Sqft: 2022
+  Legal Description: VALOR POINTE - THE RESERVE AT WESTRIDGE PHASE 16 ( CMC), BLK KK, LOT 12
+  Deed Number: 20161227001746700
+  Deed Date: 2016-12-22T00:00:00.000
+  Geo Id: R-10987-0KK-0120-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1012838
+  Deed Type: WD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 126000
+  Improvement Value: 335006
+  Hs Cap Loss: 105477
+  Prev Market Value: 323208
+  Prev Appraised Value: 323208
+  School District: SPR
+  City Code: CMC
+  Entity Codes: GCN,JCN,SPR,CMC
+  Neighborhood Code: N9472
+  Map Id: 064.G
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 38 ---
+  Owner Name: BALAD ABADI ZOHREH
+  Situs Address: 2301 BRIDGE VIEW LN , PLANO, TX 75093
+  Owner Address: 2301 BRIDGE VIEW LN, PLANO, TX, 75093-2549
+  Property Id: 340517
+  Market Value: $855,293
+  Appraised Value: $855,293
+  Assessed Value: $746,747
+  Year Built: 1983
+  Main Area Sqft: 4016
+  Legal Description: WILLOW BEND LAKES PHASE THREE, BLK C, LOT 19
+  Deed Number: 2025000093764
+  Deed Date: 2025-07-23T00:00:00.000
+  Geo Id: R-0592-003-0190-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 344758
+  Deed Type: WDNL
+  Improvement Class: RV9
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 225000
+  Improvement Value: 630293
+  Hs Cap Loss: 108546
+  Prev Market Value: 678861
+  Prev Appraised Value: 678861
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0319
+  Map Id: 111.P
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 39 ---
+  Owner Name: BARBADILLO OSCAR &
+  Situs Address: 7031 ASPEN CREEK LN , DALLAS, TX 75252
+  Owner Address: 7031 ASPEN CREEK LN, DALLAS, TX, 75252-2756
+  Property Id: 2018265
+  Market Value: $450,087
+  Appraised Value: $450,087
+  Assessed Value: $402,283
+  Year Built: 1997
+  Main Area Sqft: 2289
+  Legal Description: HIGHLAND CREEK MANOR, BLK 26/8734, LOT 4
+  Deed Number: 20210914001872780
+  Deed Date: 2021-09-10T00:00:00.000
+  Geo Id: R-3082-026-0040-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1205705
+  Deed Type: WDNL
+  Improvement Class: RV8
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 110000
+  Improvement Value: 340087
+  Hs Cap Loss: 47804
+  Prev Market Value: 365712
+  Prev Appraised Value: 365712
+  School District: SPL
+  City Code: CDA
+  Entity Codes: GCN,JCN,SPL,CDA
+  Neighborhood Code: S3082
+  Map Id: 128.E
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 40 ---
+  Owner Name: BESHARAT HAMIDREZA & MOZHGAN NAMVAR MAHMOUDABADI
+  Situs Address: 2605 TRITON DR , MCKINNEY, TX 75071
+  Owner Address: 2605 TRITON DR, MCKINNEY, TX, 75071-1324
+  Property Id: 2791276
+  Market Value: $507,904
+  Appraised Value: $507,904
+  Assessed Value: $372,643
+  Year Built: 2019
+  Main Area Sqft: 2186
+  Land Size Sqft: 6000.00
+  Legal Description: AUBURN HILLS PHASE 5C, BLK L, LOT 26
+  Deed Number: 2025000080600
+  Deed Date: 2025-06-24T00:00:00.000
+  Geo Id: R-11743-00L-0260-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1127582
+  Deed Type: WD
+  Improvement Class: RV9
+  Land Size Acres: 0.1377
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 135000
+  Improvement Value: 372904
+  Hs Cap Loss: 135261
+  Prev Market Value: 353693
+  Prev Appraised Value: 353693
+  School District: SPR
+  City Code: CMC
+  Entity Codes: GCN,JCN,SPR,CMC
+  Neighborhood Code: N11134-SPR
+  Map Id: 050.T
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 41 ---
+  Owner Name: BOBADILLA CENON E & ELENA I
+  Situs Address: 1214 AUGUSTIN DR , PRINCETON, TX 75407
+  Owner Address: 1214 AUGUSTIN DR, PRINCETON, TX, 75407-2811
+  Property Id: 2576684
+  Market Value: $268,029
+  Appraised Value: $268,029
+  Assessed Value: $219,218
+  Year Built: 2006
+  Main Area Sqft: 1601
+  Legal Description: VILLAS OF MONTE CARLO PHASE ONE, BLK K, LOT 7
+  Deed Number: 20120928001224760
+  Deed Date: 2012-09-25T00:00:00.000
+  Geo Id: R-8786-00K-0070-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 859087
+  Deed Type: WD
+  Improvement Class: RV6
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 80000
+  Improvement Value: 188029
+  Hs Cap Loss: 48811
+  Prev Market Value: 199289
+  Prev Appraised Value: 199289
+  School District: SPN
+  City Code: CPN
+  Entity Codes: GCN,JCN,SPN,CPN
+  Neighborhood Code: N8786
+  Map Id: 070.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 42 ---
+  Owner Name: BOBADILLA MARIO
+  Situs Address: 101 W OAK ST , WYLIE, TX 75098
+  Owner Address: 101 W OAK ST, WYLIE, TX, 75098-4424
+  Property Id: 2709686
+  Market Value: $6,625
+  Appraised Value: $6,625
+  Assessed Value: $6,625
+  Legal Description: BPP AT 101 W OAK ST
+  Geo Id: P-9000-215-0303-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 930085
+  Prev Market Value: 2000
+  Prev Appraised Value: 2000
+  School District: SWY
+  City Code: CWY
+  Entity Codes: GCN,JCN,SWY,CWY
+  Map Id: 118.Y
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 43 ---
+  Owner Name: BOBADILLA MARIO &
+  Owner Address: 3708 CLOUDCREST DR, PLANO, TX, 75074-7766
+  Property Id: 15706
+  Market Value: $92,529
+  Appraised Value: $92,529
+  Assessed Value: $92,529
+  Land Size Sqft: 13708.00
+  Legal Description: OAKS RETAIL, BLK 2, LOT 3C
+  Deed Number: 20201028001888810
+  Deed Date: 2020-10-23T00:00:00.000
+  Geo Id: R-1467-002-003C-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Commercial
+  Owner Id: 1166735
+  Deed Type: WD
+  Land Size Acres: 0.3147
+  Land Value: 92529
+  Prev Market Value: 89102
+  Prev Appraised Value: 89102
+  School District: SWY
+  City Code: CWY
+  Entity Codes: GCN,JCN,SWY,CWY
+  Map Id: 118.Z
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 44 ---
+  Owner Name: BOBADILLA MARIO &
+  Situs Address: 705 N STATE HWY 78 , WYLIE, TX 75098
+  Owner Address: 3708 CLOUDCREST DR, PLANO, TX, 75074-7766
+  Property Id: 15707
+  Market Value: $93,119
+  Appraised Value: $93,119
+  Assessed Value: $93,119
+  Land Size Sqft: 13795.45
+  Legal Description: OAKS RETAIL, BLK 2, LOT 3D
+  Deed Number: 20201028001888810
+  Deed Date: 2020-10-23T00:00:00.000
+  Geo Id: R-1467-002-003D-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Commercial
+  Owner Id: 1166735
+  Deed Type: WD
+  Land Size Acres: 0.3167
+  Land Value: 93119
+  Prev Market Value: 89670
+  Prev Appraised Value: 89670
+  School District: SWY
+  City Code: CWY
+  Entity Codes: GCN,JCN,SWY,CWY
+  Map Id: 118.Z
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 45 ---
+  Owner Name: BOBADILLA MARIO & MARIA ELENA SANCHEZ
+  Situs Address: 3708 CLOUDCREST DR , PLANO, TX 75074
+  Owner Address: 3708 CLOUDCREST DR, PLANO, TX, 75074-7766
+  Property Id: 2067448
+  Market Value: $579,858
+  Appraised Value: $579,858
+  Assessed Value: $455,797
+  Year Built: 1998
+  Main Area Sqft: 3371
+  Legal Description: STONEY HOLLOW PHASE FOUR, BLK A, LOT 16
+  Deed Number: 20160720000932210
+  Deed Date: 2016-06-28T00:00:00.000
+  Geo Id: R-3822-00A-0160-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 995717
+  Deed Type: WD
+  Improvement Class: RV9
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 140000
+  Improvement Value: 439858
+  Hs Cap Loss: 124061
+  Prev Market Value: 456811
+  Prev Appraised Value: 456811
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: S3822
+  Map Id: 115.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 46 ---
+  Owner Name: BRAVO ALFREDO BADILLO
+  Situs Address: 1304 LONESOME DOVE TRL , WYLIE, TX 75098
+  Owner Address: 1304 LONESOME DOVE TRL, WYLIE, TX, 75098-7977
+  Property Id: 2128842
+  Market Value: $348,203
+  Appraised Value: $348,203
+  Assessed Value: $302,106
+  Year Built: 2001
+  Main Area Sqft: 2454
+  Legal Description: QUAIL MEADOW, BLK A, LOT 8
+  Deed Number: 20190130000097600
+  Deed Date: 2019-01-18T00:00:00.000
+  Geo Id: R-4746-00A-0080-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1094845
+  Deed Type: WD
+  Improvement Class: RV5
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 78750
+  Improvement Value: 269453
+  Hs Cap Loss: 46097
+  Prev Market Value: 274642
+  Prev Appraised Value: 274642
+  School District: SWY
+  City Code: CWY
+  Entity Codes: GCN,JCN,SWY,CWY
+  Neighborhood Code: N2273B
+  Map Id: 117.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 47 ---
+  Owner Name: DARBANDI-FARD AMIR & FOROOZAN BADIEE
+  Situs Address: 6712 CRATOR DR , MCKINNEY, TX 75070
+  Owner Address: 6712 CRATOR DR, MCKINNEY, TX, 75070-9531
+  Property Id: 2130405
+  Market Value: $361,079
+  Appraised Value: $361,079
+  Assessed Value: $278,784
+  Year Built: 2002
+  Main Area Sqft: 1810
+  Legal Description: RIDGE ROAD ESTATES PHASE 1, BLK D, LOT 26
+  Deed Number: 20190701000762650
+  Deed Date: 2019-06-24T00:00:00.000
+  Geo Id: R-4735-00D-0260-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1111285
+  Deed Type: WDNL
+  Improvement Class: RV6
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 90000
+  Improvement Value: 271079
+  Hs Cap Loss: 82295
+  Prev Market Value: 253440
+  Prev Appraised Value: 253440
+  School District: SFR
+  City Code: CMC
+  Entity Codes: GCN,JCN,SFR,CMC
+  Neighborhood Code: N4735
+  Map Id: 066.W
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 48 ---
+  Owner Name: DELATI BADIH S & RANDA K
+  Situs Address: 12022 BURNT PRAIRIE LN , FRISCO, TX 75035
+  Owner Address: 12022 BURNT PRAIRIE LN, FRISCO, TX, 75035-5160
+  Property Id: 2723883
+  Market Value: $681,311
+  Appraised Value: $681,311
+  Assessed Value: $594,257
+  Year Built: 2017
+  Main Area Sqft: 3315
+  Legal Description: PRAIRIE VIEW PHASE 1, BLK G, LOT 25
+  Deed Number: 20180108000029300
+  Deed Date: 2017-12-21T00:00:00.000
+  Geo Id: R-10810-00G-0250-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1053681
+  Deed Type: WD
+  Improvement Class: RV9
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 156000
+  Improvement Value: 525311
+  Hs Cap Loss: 87054
+  Prev Market Value: 540234
+  Prev Appraised Value: 540234
+  School District: SPR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SPR,CFR
+  Neighborhood Code: N10810
+  Map Id: 064.J
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 49 ---
+  Owner Name: EICHAMBADI BALAJI & SOWMYA BALAJI
+  Situs Address: 5408 DIMEBOX DR , MCKINNEY, TX 75070
+  Owner Address: 5408 DIMEBOX DR, MCKINNEY, TX, 75070-7292
+  Property Id: 2684484
+  Market Value: $651,417
+  Appraised Value: $651,417
+  Assessed Value: $478,500
+  Year Built: 2013
+  Main Area Sqft: 3039
+  Land Size Sqft: 8407.00
+  Legal Description: VILLAGE PARK NORTH PHASE 2A, BLK K, LOT 6
+  Deed Number: 20200630000995370
+  Deed Date: 2020-06-25T00:00:00.000
+  Geo Id: R-10293-00K-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1150658
+  Deed Type: WD
+  Improvement Class: RV8
+  Land Size Acres: 0.1930
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 168000
+  Improvement Value: 483417
+  Hs Cap Loss: 172917
+  Prev Market Value: 435000
+  Prev Appraised Value: 435000
+  School District: SAL
+  City Code: CMC
+  Entity Codes: GCN,JCN,SAL,CMC
+  Neighborhood Code: N10293
+  Map Id: 082.C
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 50 ---
+  Owner Name: ESFANDABADI SAHBA & HENGAMEH KOSSAR
+  Situs Address: 554 SEMINOLE TRL , MURPHY, TX 75094
+  Owner Address: 554 SEMINOLE TRL, MURPHY, TX, 75094-3654
+  Property Id: 2559366
+  Market Value: $334,755
+  Appraised Value: $334,755
+  Assessed Value: $283,830
+  Year Built: 2004
+  Main Area Sqft: 1831
+  Legal Description: RANCH PHASE 5 AT NORTH HILL, BLK B, LOT 14
+  Deed Number: 20210826001732310
+  Deed Date: 2021-08-17T00:00:00.000
+  Geo Id: R-8570-00B-0140-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1205020
+  Deed Type: WD
+  Improvement Class: RV6P
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 90250
+  Improvement Value: 244505
+  Hs Cap Loss: 50925
+  Prev Market Value: 258027
+  Prev Appraised Value: 258027
+  School District: SWY
+  City Code: CMR
+  Entity Codes: GCN,JCN,SWY,CMR
+  Neighborhood Code: N5051
+  Map Id: 116.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+================================================================================

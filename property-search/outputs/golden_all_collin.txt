@@ -1,0 +1,1502 @@
+================================================================================
+PROPERTY SEARCH RESULTS
+County: Collin Central Appraisal District
+Source: socrata
+Search: owner = 'GOLDEN'
+Time: 2026-02-19T16:35:13.567544
+Results: 50
+================================================================================
+
+--- Record 1 ---
+  Owner Name: DFW GOLDEN REALTY LLC
+  Situs Address: 550 S WATTERS RD 00127, ALLEN, TX 75013
+  Owner Address: 550 S WATTERS RD STE 127, ALLEN, TX, 75013-5225
+  Property Id: 2846119
+  Market Value: $1,000
+  Appraised Value: $1,000
+  Assessed Value: $1,000
+  Legal Description: BPP AT CADDO OFFICE REIMAGINED
+  Geo Id: P-9000-222-3115-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1223529
+  Exemptions: EX366
+  School District: SAL
+  City Code: CAL
+  Entity Codes: GCN,JCN,SAL,CAL
+  Map Id: 098.L
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 2 ---
+  Owner Name: GOLDEN ACCURATE LLC
+  Situs Address: 1704 ULSTER LN , PLANO, TX 75093
+  Owner Address: 504 SHARON RD, ARCADIA, CA, 91007-7952
+  Property Id: 137122
+  Market Value: $400,732
+  Appraised Value: $400,732
+  Assessed Value: $400,732
+  Year Built: 1986
+  Main Area Sqft: 2379
+  Legal Description: HIGHLANDS NORTH PHASE IV, BLK J, LOT 14
+  Deed Number: 20190726000885220
+  Deed Date: 2019-07-20T00:00:00.000
+  Geo Id: R-0268-010-0140-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1113936
+  Deed Type: WD
+  Improvement Class: RV7
+  Land Value: 110000
+  Improvement Value: 290732
+  Prev Market Value: 343959
+  Prev Appraised Value: 343959
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0256
+  Map Id: 112.S
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 3 ---
+  Owner Name: GOLDEN ARCH LTD PARTNERSHIP
+  Situs Address: 4005 PARKER RD , PLANO, TX 75093
+  Owner Address: 110 N CARPENTER ST STE 300 # 027, CHICAGO, IL, 60607-4106
+  Property Id: 2034005
+  Market Value: $1,606,133
+  Appraised Value: $1,606,133
+  Assessed Value: $1,606,133
+  Year Built: 1996
+  Main Area Sqft: 4545
+  Land Size Sqft: 43081.00
+  Legal Description: PARKER COIT ADDITION, BLK 1, LOT 5
+  Deed Date: 1996-02-09T00:00:00.000
+  Geo Id: R-2543-001-0050-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Commercial
+  Owner Id: 337840
+  Deed Type: SWD
+  Improvement Class: FF4
+  Land Size Acres: 0.9890
+  Land Value: 710837
+  Improvement Value: 895296
+  Prev Market Value: 1159986
+  Prev Appraised Value: 1159986
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: CNRET.FF
+  Map Id: 112.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 4 ---
+  Owner Name: GOLDEN BANK NA
+  Situs Address: 240 LEGACY DR 00210, PLANO, TX 75023
+  Owner Address: 9315 BELLAIRE BLVD, HOUSTON, TX, 77036-4503
+  Property Id: 2619147
+  Market Value: $14,484
+  Appraised Value: $14,484
+  Assessed Value: $14,484
+  Legal Description: BPP AT 240 LEGACY DR
+  Deed Date: 2008-01-01T00:00:00.000
+  Geo Id: P-9000-207-2199-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 739644
+  Deed Type: OT
+  Prev Market Value: 18750
+  Prev Appraised Value: 18750
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Map Id: 098.X
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 5 ---
+  Owner Name: GOLDEN BEAR PHYSICAL THERAPY
+  Situs Address: 788 S WATTERS RD 00110, ALLEN, TX 75013
+  Owner Address: 305 BANNER CT, MODESTO, CA, 95356-9261
+  Property Id: 2750729
+  Market Value: $63,769
+  Appraised Value: $63,769
+  Assessed Value: $63,769
+  Legal Description: BPP AT 788 S WATTERS RD
+  Geo Id: P-9000-217-2942-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1233328
+  Deed Type: OT
+  Prev Market Value: 71973
+  Prev Appraised Value: 71973
+  School District: SAL
+  City Code: CAL
+  Entity Codes: GCN,JCN,SAL,CAL
+  Map Id: 098.L
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 6 ---
+  Owner Name: GOLDEN BEAR THERAPY PARTNERS
+  Situs Address: 6501 PRESTON RD 00102, PLANO, TX 75024
+  Owner Address: 301 BANNER CT STE 3, MODESTO, CA, 95356-8631
+  Property Id: 2796381
+  Market Value: $23,809
+  Appraised Value: $23,809
+  Assessed Value: $23,809
+  Legal Description: BPP AT 6501 PRESTON RD
+  Geo Id: P-9000-219-4966-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1232624
+  Deed Type: OT
+  Prev Market Value: 25965
+  Prev Appraised Value: 25965
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Map Id: 111.C
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 7 ---
+  Owner Name: GOLDEN BEAR THERAPY PARTNERS
+  Situs Address: 3501 MIDWAY RD 00198, PLANO, TX 75093
+  Owner Address: 301 BANNER CT STE 3, MODESTO, CA, 95356-8631
+  Property Id: 2564553
+  Market Value: $20,240
+  Appraised Value: $20,240
+  Assessed Value: $20,240
+  Legal Description: BPP AT 3501 MIDWAY RD
+  Deed Date: 2010-01-01T00:00:00.000
+  Geo Id: P-9000-205-7041-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1232624
+  Deed Type: OT
+  Prev Market Value: 20791
+  Prev Appraised Value: 20791
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Map Id: 110.F
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 8 ---
+  Owner Name: GOLDEN BEAR THERAPY PARTNERS
+  Situs Address: 2309 VIRGINIA PKWY , MCKINNEY, TX 75071
+  Owner Address: 301 BANNER CT STE 3, MODESTO, CA, 95356-8631
+  Property Id: 2619474
+  Market Value: $25,737
+  Appraised Value: $25,737
+  Assessed Value: $25,737
+  Legal Description: BPP AT 2309 VIRGINIA PKWY
+  Deed Date: 2010-01-01T00:00:00.000
+  Geo Id: P-9000-207-1142-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1232624
+  Deed Type: OT
+  Prev Market Value: 25802
+  Prev Appraised Value: 25802
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Map Id: 067.G
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 9 ---
+  Owner Name: GOLDEN BEAR THERAPY PARTNERS
+  Situs Address: 5305 W UNIVERSITY DR , MCKINNEY, TX 75071
+  Owner Address: 301 BANNER CT STE 3, MODESTO, CA, 95356-8631
+  Property Id: 2693652
+  Market Value: $60,095
+  Appraised Value: $60,095
+  Assessed Value: $60,095
+  Legal Description: BPP AT 5305 W UNIVERSITY DR
+  Geo Id: P-9000-214-1510-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1232624
+  Deed Type: OT
+  Prev Market Value: 65660
+  Prev Appraised Value: 65660
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Map Id: 050.Y
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 10 ---
+  Owner Name: GOLDEN BEAR THERAPY PARTNERS
+  Situs Address: 14660 STATE HWY 121 00110, FRISCO, TX 75035
+  Owner Address: 301 BANNER CT STE 3, MODESTO, CA, 95356-8631
+  Property Id: 2735338
+  Market Value: $61,141
+  Appraised Value: $61,141
+  Assessed Value: $61,141
+  Legal Description: BPP AT 14660 STATE HWY 121
+  Geo Id: P-9000-216-3419-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1232624
+  Deed Type: OT
+  Prev Market Value: 70811
+  Prev Appraised Value: 70811
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Map Id: 080.V
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 11 ---
+  Owner Name: GOLDEN BEAR THERAPY PARTNERS
+  Situs Address: 11500 STATE HWY 121 00310, FRISCO, TX 75035
+  Owner Address: 301 BANNER CT STE 3, MODESTO, CA, 95356-8631
+  Property Id: 2658349
+  Market Value: $60,855
+  Appraised Value: $60,855
+  Assessed Value: $60,855
+  Legal Description: BPP AT 11500 STATE HWY 121
+  Geo Id: P-9000-210-0275-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1232624
+  Deed Type: OT
+  Prev Market Value: 62461
+  Prev Appraised Value: 62461
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Map Id: 095.D
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 12 ---
+  Owner Name: GOLDEN BEAR THERAPY PARTNERS
+  Situs Address: 1061 N COLEMAN ST 00140, PROSPER, TX 75078
+  Owner Address: 301 BANNER CT STE 3, MODESTO, CA, 95356-8631
+  Property Id: 2819142
+  Market Value: $16,298
+  Appraised Value: $16,298
+  Assessed Value: $16,298
+  Legal Description: BPP AT 1061 N COLEMAN ST
+  Geo Id: P-9000-221-0002-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1232624
+  Deed Type: OT
+  Prev Market Value: 14108
+  Prev Appraised Value: 14108
+  School District: SPR
+  City Code: CPR
+  Entity Codes: GCN,JCN,SPR,CPR
+  Map Id: 047.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 13 ---
+  Owner Name: GOLDENBERG BENI & CARLA LUPO
+  Situs Address: 8242 GLASTONBURY DR , FRISCO, TX 75035
+  Owner Address: 8242 GLASTONBURY DR, FRISCO, TX, 75035-9233
+  Property Id: 2782706
+  Market Value: $508,762
+  Appraised Value: $508,762
+  Assessed Value: $508,762
+  Year Built: 2020
+  Main Area Sqft: 3310
+  Legal Description: EDGEWOOD, BLK J, LOT 4
+  Deed Number: 20201125002111480
+  Deed Date: 2020-11-24T00:00:00.000
+  Geo Id: R-11595-00J-0040-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1170180
+  Deed Type: SWD
+  Improvement Class: RV9
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 150000
+  Improvement Value: 358762
+  Prev Market Value: 531413
+  Prev Appraised Value: 531413
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: S11595
+  Map Id: 080.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 14 ---
+  Owner Name: GOLDENBERG DAVID AARON
+  Situs Address: 2709 SUGAR MAPLE DR , WYLIE, TX 75098
+  Owner Address: 2709 SUGAR MAPLE DR, WYLIE, TX, 75098-8718
+  Property Id: 2520366
+  Market Value: $398,748
+  Appraised Value: $398,748
+  Assessed Value: $357,157
+  Year Built: 2004
+  Main Area Sqft: 2679
+  Legal Description: WOODED CREEK ESTATES PHASE 1, BLK G, LOT 18
+  Deed Number: 2024000149785
+  Deed Date: 2024-12-02T00:00:00.000
+  Geo Id: R-8138-00G-0180-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1152660
+  Deed Type: WD
+  Improvement Class: RV6
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 95000
+  Improvement Value: 303748
+  Hs Cap Loss: 41591
+  Prev Market Value: 324688
+  Prev Appraised Value: 324688
+  School District: SWY
+  City Code: CWY
+  Entity Codes: GCN,JCN,SWY,CWY
+  Neighborhood Code: N4530
+  Map Id: 117.X
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 15 ---
+  Owner Name: GOLDENBERG HOWARD N & KATHI M ROISEN LIVING TRUST
+  Situs Address: 2703 TELECOM PKWY , RICHARDSON, TX 75082
+  Owner Address: 101 HILLSIDE AVE, PIEDMONT, CA, 94611-3904
+  Property Id: 2718722
+  Market Value: $16,157,529
+  Appraised Value: $16,157,529
+  Assessed Value: $16,157,529
+  Year Built: 1997
+  Main Area Sqft: 121700
+  Land Size Sqft: 374387.00
+  Legal Description: TELECOM PARK ADDITION, BLK A, LOT 2B; REPLAT
+  Deed Number: 20200323000413790
+  Deed Date: 2020-03-23T00:00:00.000
+  Geo Id: R-3612-00A-002B-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Commercial
+  Owner Id: 1142873
+  Deed Type: SWD
+  Improvement Class: OS3
+  Land Size Acres: 8.5947
+  Land Value: 2995096
+  Improvement Value: 13162433
+  Prev Market Value: 15736027
+  Prev Appraised Value: 15736027
+  School District: SPL
+  City Code: CRC
+  Entity Codes: GCN,JCN,SPL,CRC
+  Neighborhood Code: OFFB
+  Map Id: 131.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 16 ---
+  Owner Name: GOLDENBERG JULIANA &
+  Situs Address: 6731 SHELL FLOWER LN , DALLAS, TX 75252
+  Owner Address: 6731 SHELL FLOWER LN, DALLAS, TX, 75252-5939
+  Property Id: 191955
+  Market Value: $530,367
+  Appraised Value: $530,367
+  Assessed Value: $493,816
+  Year Built: 1984
+  Main Area Sqft: 2981
+  Legal Description: PRESTON ROAD HIGHLANDS, BLK C/8727, LOT 17
+  Deed Number: 20201102001920090
+  Deed Date: 2020-10-29T00:00:00.000
+  Geo Id: R-0391-003-0170-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1167978
+  Deed Type: WD
+  Improvement Class: RV7
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 200000
+  Improvement Value: 330367
+  Hs Cap Loss: 36551
+  Prev Market Value: 448924
+  Prev Appraised Value: 448924
+  School District: SPL
+  City Code: CDA
+  Entity Codes: GCN,JCN,SPL,CDA
+  Neighborhood Code: N0391
+  Map Id: 127.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 17 ---
+  Owner Name: GOLDENBERG MARK & GOROSH DONNA
+  Situs Address: 4649 GLENROSE WAY , PLANO, TX 75093
+  Owner Address: 4649 GLENROSE WAY, PLANO, TX, 75093-7092
+  Property Id: 2037503
+  Market Value: $468,027
+  Appraised Value: $468,027
+  Assessed Value: $408,147
+  Year Built: 1996
+  Main Area Sqft: 2050
+  Legal Description: PRESTON GREEN, BLK A, LOT 7
+  Deed Date: 1996-11-14T00:00:00.000
+  Geo Id: R-3357-00A-0070-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 356039
+  Deed Type: SWD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 115500
+  Improvement Value: 352527
+  Hs Cap Loss: 59880
+  Prev Market Value: 371043
+  Prev Appraised Value: 371043
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: S3357
+  Map Id: 111.H
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 18 ---
+  Owner Name: GOLDEN BOY COFFEE PLANO INC
+  Situs Address: 5880 STATE HWY 121 0102A, PLANO, TX 75024
+  Owner Address: 5880 STATE HIGHWAY 121 STE 102A, PLANO, TX, 75024-6828
+  Property Id: 2838447
+  Market Value: $25,500
+  Appraised Value: $25,500
+  Assessed Value: $25,500
+  Legal Description: BPP AT 5880 STATE HWY 121
+  Geo Id: P-9000-222-0659-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1203738
+  School District: SFR
+  City Code: CPL
+  Entity Codes: GCN,JCN,SFR,CPL
+  Map Id: 094.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 19 ---
+  Owner Name: GOLDEN BRADLEY M
+  Situs Address: 1205 LOST VALLEY DR , ROYSE CITY, TX 75189
+  Owner Address: 1205 LOST VALLEY DR, ROYSE CITY, TX, 75189-2734
+  Property Id: 2544411
+  Market Value: $293,132
+  Appraised Value: $293,132
+  Assessed Value: $238,335
+  Year Built: 2013
+  Main Area Sqft: 1628
+  Legal Description: HIDDEN CREEK ESTATES, BLK 4, LOT 15
+  Deed Number: 20150331000350590
+  Deed Date: 2015-03-26T00:00:00.000
+  Geo Id: R-8414-004-0150-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 946207
+  Deed Type: WD
+  Improvement Class: RV6
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 75000
+  Improvement Value: 218132
+  Hs Cap Loss: 54797
+  Prev Market Value: 216668
+  Prev Appraised Value: 216668
+  School District: SRY
+  City Code: CRY
+  Entity Codes: GCN,JCN,SRY,CRY
+  Neighborhood Code: S8414
+  Map Id: 140.J
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 20 ---
+  Owner Name: GOLDEN BRANDON ALLEN & SUMMER
+  Situs Address: 2405 ROTHERHAM CIR , MCKINNEY, TX 75071
+  Owner Address: 2405 ROTHERHAM CIR, MCKINNEY, TX, 75071-1371
+  Property Id: 2743728
+  Market Value: $659,000
+  Appraised Value: $659,000
+  Assessed Value: $659,000
+  Year Built: 2017
+  Main Area Sqft: 3980
+  Land Size Sqft: 8320.00
+  Legal Description: AUBURN HILLS PHASE 3A, BLK U, LOT 19
+  Deed Number: 2024000012648
+  Deed Date: 2024-02-01T00:00:00.000
+  Geo Id: R-11088-00U-0190-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1187891
+  Deed Type: SWD
+  Improvement Class: RV9
+  Land Size Acres: 0.1910
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 160000
+  Improvement Value: 499000
+  Prev Market Value: 532698
+  Prev Appraised Value: 532698
+  School District: SPR
+  City Code: CMC
+  Entity Codes: GCN,JCN,SPR,CMC
+  Neighborhood Code: N11572
+  Map Id: 050.T
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 21 ---
+  Owner Name: GOLDEN BRANDON & CAROLINE GOLDEN
+  Situs Address: 4001 STRATTFORD DR , FRISCO, TX 75035
+  Owner Address: 4001 STRATTFORD DR, FRISCO, TX, 75035-5790
+  Property Id: 2019115
+  Market Value: $466,910
+  Appraised Value: $466,910
+  Assessed Value: $466,910
+  Year Built: 1995
+  Main Area Sqft: 2396
+  Legal Description: PRESTMONT PHASE 1, BLK A, LOT 4
+  Deed Number: 20200609000857230
+  Deed Date: 2020-06-09T00:00:00.000
+  Geo Id: R-3101-00A-0040-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1148705
+  Deed Type: WD
+  Improvement Class: RV7
+  Has Pool: True
+  Land Value: 103500
+  Improvement Value: 363410
+  Prev Market Value: 381019
+  Prev Appraised Value: 381019
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N3101
+  Map Id: 095.B
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 22 ---
+  Owner Name: GOLDEN BRYAN & MELISSA
+  Situs Address: 5604 RIDGEPASS LN , MCKINNEY, TX 75071
+  Owner Address: 5604 RIDGEPASS LN, MCKINNEY, TX, 75071-6220
+  Property Id: 2682163
+  Market Value: $481,903
+  Appraised Value: $481,903
+  Assessed Value: $360,514
+  Year Built: 2014
+  Main Area Sqft: 2313
+  Legal Description: ROBINSON RIDGE PHASE III, BLK P, LOT 29
+  Deed Number: 20150520000590330
+  Deed Date: 2015-05-15T00:00:00.000
+  Geo Id: R-10250-00P-0290-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 951030
+  Deed Type: SWD
+  Improvement Class: RV8
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 141750
+  Improvement Value: 340153
+  Hs Cap Loss: 121389
+  Prev Market Value: 327740
+  Prev Appraised Value: 327740
+  School District: SPR
+  City Code: CMC
+  Entity Codes: GCN,JCN,SPR,CMC
+  Neighborhood Code: N8553 2ST
+  Map Id: 050.P
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 23 ---
+  Owner Name: GOLDEN BUCKET SPA
+  Situs Address: 8901 VIRGINIA PKWY 00700, MCKINNEY, TX 75071
+  Owner Address: 5100 ELDORADO PKWY STE 110, MCKINNEY, TX, 75070-7295
+  Property Id: 2823736
+  Market Value: $17,256
+  Appraised Value: $17,256
+  Assessed Value: $17,256
+  Legal Description: BPP AT 8901 VIRGINIA PKWY
+  Geo Id: P-9000-221-0259-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1116493
+  Deed Type: OT
+  Prev Market Value: 17256
+  Prev Appraised Value: 17256
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Map Id: 065.F
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 24 ---
+  Owner Name: GOLDEN CHARLES ALLEN II
+  Situs Address: 5606 MCKINLEY LN , RICHARDSON, TX 75082
+  Owner Address: 5606 MCKINLEY LN, RICHARDSON, TX, 75082-4948
+  Property Id: 2044132
+  Market Value: $502,847
+  Appraised Value: $502,847
+  Assessed Value: $413,559
+  Year Built: 1997
+  Main Area Sqft: 3475
+  Legal Description: BRECKINRIDGE PARK ESTATES PHASE 2, BLK C, LOT 6
+  Deed Number: 20190102000000320
+  Deed Date: 2018-12-31T00:00:00.000
+  Geo Id: R-3509-00C-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1092087
+  Deed Type: WD
+  Improvement Class: RV6
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 100000
+  Improvement Value: 402847
+  Hs Cap Loss: 89288
+  Prev Market Value: 375963
+  Prev Appraised Value: 375963
+  School District: SPL
+  City Code: CRC
+  Entity Codes: GCN,JCN,SPL,CRC
+  Neighborhood Code: N2903
+  Map Id: 132.L
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 25 ---
+  Owner Name: GOLDEN CHICK
+  Situs Address: 1718 14TH ST , PLANO, TX 75074
+  Owner Address: 1718 14TH ST, PLANO, TX, 75074-6402
+  Property Id: 2022403
+  Market Value: $77,055
+  Appraised Value: $77,055
+  Assessed Value: $77,055
+  Legal Description: BPP AT 1718 14TH ST
+  Geo Id: P-9000-295-2033-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 829092
+  Deed Type: OT
+  Prev Market Value: 75955
+  Prev Appraised Value: 75955
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Map Id: 114.Y
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 26 ---
+  Owner Name: GOLDEN CHICK
+  Situs Address: 2631 SAM RAYBURN HWY , MELISSA, TX 75454
+  Owner Address: 2631 SAM RAYBURN HWY, MELISSA, TX, 75454-2610
+  Property Id: 2846278
+  Market Value: $139,710
+  Appraised Value: $139,710
+  Assessed Value: $139,710
+  Legal Description: BPP AT 2631 SAM RAYBURN HWY
+  Geo Id: P-9000-222-3148-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1223701
+  Deed Type: OT
+  School District: SML
+  City Code: CML
+  Entity Codes: GCN,JCN,SML,CML
+  Map Id: 037.R
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 27 ---
+  Owner Name: GOLDEN CHRISTOPHER D
+  Situs Address: 9104 SHADY SPRING LN , MCKINNEY, TX 75071
+  Owner Address: 9104 SHADY SPRING LN, MCKINNEY, TX, 75071-0108
+  Property Id: 2816682
+  Market Value: $386,188
+  Appraised Value: $386,188
+  Assessed Value: $382,039
+  Year Built: 2020
+  Main Area Sqft: 1924
+  Legal Description: TRINITY FALLS PLANNING UNIT 3 PHASE 5B WEST, BLK Q, LOT 6
+  Deed Number: 20210105000019490
+  Deed Date: 2020-12-30T00:00:00.000
+  Geo Id: R-12103-00Q-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1173134
+  Deed Type: SWD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 85500
+  Improvement Value: 300688
+  Hs Cap Loss: 4149
+  Prev Market Value: 347308
+  Prev Appraised Value: 347308
+  School District: SMC
+  Entity Codes: GCN,JCN,SMC,WMM2
+  Neighborhood Code: N11801
+  Map Id: 036.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 28 ---
+  Owner Name: GOLDEN CONNIE F
+  Situs Address: 441 EWING WAY , WYLIE, TX 75098
+  Owner Address: 441 EWING WAY, WYLIE, TX, 75098-7277
+  Property Id: 2125588
+  Market Value: $49,213
+  Appraised Value: $49,213
+  Assessed Value: $42,390
+  Year Built: 2000
+  Main Area Sqft: 1536
+  Legal Description: SOUTHFORK MHP, SPACE 441; SUMMIT CREEK; SN1: CSS002616TXA, SN2: CSS002616TXB, HUD1: HWC0298457, HUD2: HWC0298458
+  Deed Date: 2015-06-04T00:00:00.000
+  Geo Id: M-5030-000-441E-1
+  Property Year: 2022
+  Property Type: Mobile Home
+  Property Subtype: Residential
+  Owner Id: 956098
+  Deed Type: IS
+  Improvement Class: RMD3
+  Homestead Exempt: True
+  Exemptions: HS
+  Improvement Value: 49213
+  Hs Cap Loss: 6823
+  Prev Market Value: 41100
+  Prev Appraised Value: 41100
+  School District: SWY
+  City Code: CWY
+  Entity Codes: GCN,JCN,SWY,CWY
+  Neighborhood Code: M5030
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 29 ---
+  Owner Name: GOLDEN CONSTRUCTION SERVICES INC
+  Situs Address: 4114 COUNTY ROAD 177 , ANNA, TX 75409
+  Owner Address: 4114 COUNTY ROAD 177, ANNA, TX, 75409-3010
+  Property Id: 2714682
+  Market Value: $243,217
+  Appraised Value: $243,217
+  Assessed Value: $243,217
+  Legal Description: BPP AT 4114 COUNTY ROAD 177
+  Geo Id: P-9000-215-2775-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 941129
+  Prev Market Value: 186083
+  Prev Appraised Value: 186083
+  School District: SVA
+  Entity Codes: GCN,JCN,SVA
+  Map Id: 006.P
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 30 ---
+  Owner Name: GOLDEN CORDELL L & TONDALAYA M
+  Situs Address: 109 CALMWATER CV , MCKINNEY, TX 75071
+  Owner Address: 109 CALMWATER CV, MCKINNEY, TX, 75071-1786
+  Property Id: 2845129
+  Market Value: $172,900
+  Appraised Value: $172,900
+  Assessed Value: $172,900
+  Year Built: 2022
+  Main Area Sqft: 2995
+  Legal Description: TRINITY FALLS PLANNING UNIT 3 PHASE 3D, BLK W, LOT 10; (SEE R-12535-00W-0100-W FOR MUD ONLY ACCOUNT)
+  Deed Number: 2022000104069
+  Deed Date: 2022-06-28T00:00:00.000
+  Geo Id: R-12535-00W-0100-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1245677
+  Deed Type: WD
+  Improvement Class: NVNEXT
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 172900
+  School District: SMC
+  Entity Codes: GCN,JCN,SMC
+  Neighborhood Code: S12535
+  Map Id: 036.J
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 31 ---
+  Owner Name: GOLDEN DARLA ANN
+  Situs Address: 1040 OAKBROOK DR , WYLIE, TX 75098
+  Owner Address: 1040 OAKBROOK DR, WYLIE, TX, 75098-5427
+  Property Id: 2074506
+  Market Value: $506,228
+  Appraised Value: $506,228
+  Assessed Value: $407,000
+  Year Built: 2000
+  Main Area Sqft: 2559
+  Legal Description: STONERIDGE FARMS PHASE II, BLK A, LOT 23
+  Deed Number: 20210623001264260
+  Deed Date: 2021-06-22T00:00:00.000
+  Geo Id: R-4003-00A-0230-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1200600
+  Deed Type: DNL
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 135000
+  Improvement Value: 371228
+  Hs Cap Loss: 99228
+  Prev Market Value: 370000
+  Prev Appraised Value: 370000
+  School District: SWY
+  City Code: CWY
+  Entity Codes: GCN,JCN,SWY,CWY
+  Neighborhood Code: N3718
+  Map Id: 135.A
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 32 ---
+  Owner Name: GOLDEN DAVID E & JENNIFER L
+  Situs Address: 9970 COUNTY ROAD 175 , CELINA, TX 75009
+  Owner Address: 9970 COUNTY ROAD 175, CELINA, TX, 75009-3170
+  Property Id: 2122443
+  Market Value: $1,494,138
+  Appraised Value: $745,668
+  Assessed Value: $499,440
+  Year Built: 1992
+  Main Area Sqft: 2444
+  Land Size Sqft: 696960.00
+  Legal Description: ABS A0965 WILLIAM WARDEN SURVEY, TRACT 33, 16.0 ACRES
+  Geo Id: R-6965-000-0330-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 271666
+  Improvement Class: RV10
+  Land Size Acres: 16.0000
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 800000
+  Improvement Value: 694138
+  Hs Cap Loss: 246228
+  Prev Market Value: 987942
+  Prev Appraised Value: 464502
+  School District: SCL
+  Entity Codes: GCN,JCN,SCL
+  Neighborhood Code: SCLRV91011
+  Map Id: 018.D
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 33 ---
+  Owner Name: GOLDEN DENISE GAYE
+  Situs Address: 7516 CONTINENTAL DR , MCKINNEY, TX 75071
+  Owner Address: 7516 CONTINENTAL DR, MCKINNEY, TX, 75071-1677
+  Property Id: 2798400
+  Market Value: $324,862
+  Appraised Value: $324,862
+  Assessed Value: $269,485
+  Year Built: 2019
+  Main Area Sqft: 1264
+  Land Size Sqft: 5000.00
+  Legal Description: WESTON RIDGE PHASE I, BLK F, LOT 5
+  Deed Number: 2025000076744
+  Deed Date: 2025-06-17T00:00:00.000
+  Geo Id: R-11848-00F-0050-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1141698
+  Deed Type: WD
+  Improvement Class: RV5
+  Land Size Acres: 0.1148
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 80000
+  Improvement Value: 244862
+  Hs Cap Loss: 55377
+  Prev Market Value: 244986
+  Prev Appraised Value: 244986
+  School District: SMC
+  Entity Codes: GCN,JCN,SMC
+  Neighborhood Code: N11848
+  Map Id: 035.V
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 34 ---
+  Owner Name: GOLDEN DRAGON
+  Situs Address: 6620 VIEJITA ST , MCKINNEY, TX 75070
+  Owner Address: 6620 VIEJITA ST, MCKINNEY, TX, 75070-7359
+  Property Id: 2707858
+  Market Value: $633,301
+  Appraised Value: $633,301
+  Assessed Value: $505,310
+  Year Built: 2014
+  Main Area Sqft: 3209
+  Land Size Sqft: 6478.00
+  Legal Description: BARCELONA ADDITION, BLK B, LOT 36
+  Deed Number: 20201103001940590
+  Deed Date: 2020-11-03T00:00:00.000
+  Geo Id: R-10628-00B-0360-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1172738
+  Deed Type: WDNL
+  Improvement Class: RV8
+  Land Size Acres: 0.1487
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 168750
+  Improvement Value: 464551
+  Hs Cap Loss: 127991
+  Prev Market Value: 459373
+  Prev Appraised Value: 459373
+  School District: SFR
+  City Code: CMC
+  Entity Codes: GCN,JCN,SFR,CMC
+  Neighborhood Code: N10628
+  Map Id: 082.A
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 35 ---
+  Owner Name: GOLDEN EAGLE TRUCKING LLC
+  Situs Address: 9292 CHILSON RD , PRINCETON, TX 75407
+  Owner Address: 1214 PROVIDENCE DR, ALLEN, TX, 75002-5305
+  Property Id: 2837087
+  Market Value: $862,348
+  Appraised Value: $862,348
+  Assessed Value: $862,348
+  Year Built: 1996
+  Main Area Sqft: 2424
+  Land Size Sqft: 345866.40
+  Legal Description: ABS A0890 S D TERRY SURVEY, SHEET 1, TRACT 56, 7.94 ACRES
+  Deed Number: 20210609001163990
+  Deed Date: 2021-06-08T00:00:00.000
+  Geo Id: R-6890-001-0560-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1195792
+  Deed Type: WDNL
+  Improvement Class: RF3
+  Land Size Acres: 7.9400
+  Land Value: 698720
+  Improvement Value: 163628
+  School District: SPN
+  Entity Codes: GCN,JCN,SPN
+  Neighborhood Code: CB.SPN.RF
+  Map Id: 087.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 36 ---
+  Owner Name: GOLDEN EAGLE TRUCKING LLC
+  Situs Address: 1210 VINEYARD DR , ALLEN, TX 75002
+  Owner Address: 1210 VINEYARD DR, ALLEN, TX, 75002-0987
+  Property Id: 2794581
+  Market Value: $10,550
+  Appraised Value: $10,550
+  Assessed Value: $10,550
+  Legal Description: BPP AT 1210 VINEYARD DR
+  Geo Id: P-9000-219-4060-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1096433
+  Prev Market Value: 12000
+  Prev Appraised Value: 12000
+  School District: SAL
+  City Code: CAL
+  Entity Codes: GCN,JCN,SAL,CAL
+  Map Id: 083.Z
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 37 ---
+  Owner Name: GOLDEN ELISE A &
+  Situs Address: 1860 SAWMILL DR , LUCAS, TX 75002
+  Owner Address: 1860 SAWMILL DR, ALLEN, TX, 75002-8576
+  Property Id: 2506324
+  Market Value: $1,012,907
+  Appraised Value: $1,012,907
+  Assessed Value: $850,300
+  Year Built: 2004
+  Main Area Sqft: 4164
+  Land Size Sqft: 91998.72
+  Legal Description: FOREST CREEK ESTATES, BLK 2, LOT 15R
+  Deed Number: 69571
+  Deed Date: 2004-04-30T00:00:00.000
+  Geo Id: R-3722-002-015R-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 587705
+  Deed Type: WD
+  Improvement Class: RV12
+  Has Pool: True
+  Land Size Acres: 2.1120
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 285120
+  Improvement Value: 727787
+  Hs Cap Loss: 162607
+  Prev Market Value: 773000
+  Prev Appraised Value: 773000
+  School District: SLV
+  City Code: CLU
+  Entity Codes: GCN,JCN,SLV,CLU
+  Neighborhood Code: N3722
+  Map Id: 101.A
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 38 ---
+  Owner Name: GOLDEN-ENCARNACION NICOLE & JOSE
+  Situs Address: 5873 SHETLAND CIR , FRISCO, TX 75034
+  Owner Address: 5873 SHETLAND CIR, FRISCO, TX, 75034-4053
+  Property Id: 2106437
+  Market Value: $444,743
+  Appraised Value: $444,743
+  Assessed Value: $404,894
+  Year Built: 2000
+  Main Area Sqft: 3017
+  Legal Description: STERLING RANCH - PHASE TWO, BLK C, LOT 37
+  Deed Number: 2025000026688
+  Deed Date: 2025-02-05T00:00:00.000
+  Geo Id: R-4474-00C-0370-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 995867
+  Deed Type: WD
+  Improvement Class: RV6
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 105000
+  Improvement Value: 339743
+  Hs Cap Loss: 39849
+  Prev Market Value: 368085
+  Prev Appraised Value: 368085
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N4225
+  Map Id: 078.Q
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 39 ---
+  Owner Name: GOLDEN FAMILY LIVING TRUST
+  Situs Address: 3820 APPOMATTOX CIR , PLANO, TX 75023
+  Owner Address: 3820 APPOMATTOX CIR, PLANO, TX, 75023-6021
+  Property Id: 228612
+  Market Value: $581,291
+  Appraised Value: $581,291
+  Assessed Value: $516,549
+  Year Built: 1983
+  Main Area Sqft: 3486
+  Legal Description: PARKWAY ESTATES, BLK 6, LOT 87
+  Deed Number: 20200330000451830
+  Deed Date: 2020-03-28T00:00:00.000
+  Geo Id: R-0449-006-0870-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1141071
+  Deed Type: SWDNL
+  Improvement Class: RV7P
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 135000
+  Improvement Value: 446291
+  Hs Cap Loss: 64742
+  Prev Market Value: 469590
+  Prev Appraised Value: 469590
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: S0449
+  Map Id: 112.F
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 40 ---
+  Owner Name: GOLDEN FENG INC
+  Situs Address: 9719 SHELBY PL , FRISCO, TX 75035
+  Owner Address: 300 N COIT RD STE 210, RICHARDSON, TX, 75080-5433
+  Property Id: 2037055
+  Market Value: $483,977
+  Appraised Value: $483,977
+  Assessed Value: $483,977
+  Year Built: 1996
+  Main Area Sqft: 2786
+  Legal Description: PRESTMONT PHASE II, BLK F, LOT 16
+  Deed Number: 20191205001553300
+  Deed Date: 2019-12-05T00:00:00.000
+  Geo Id: R-3378-00F-0160-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1128892
+  Deed Type: WD
+  Improvement Class: RV7
+  Land Value: 103500
+  Improvement Value: 380477
+  Prev Market Value: 399777
+  Prev Appraised Value: 399777
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N3101
+  Map Id: 095.C
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 41 ---
+  Owner Name: GOLDEN FIELDS LLC
+  Owner Address: 3601 BELL DR STE A, HURST, TX, 76053-7931
+  Property Id: 1901776
+  Market Value: $1,060,275
+  Appraised Value: $4,382
+  Assessed Value: $4,382
+  Land Size Sqft: 3079038.60
+  Legal Description: ABS A0889 ROBERT TRAMMELL SURVEY, SHEET 3, TRACT 45, 70.685 ACRES
+  Deed Number: 20210902001789460
+  Deed Date: 2021-08-27T00:00:00.000
+  Geo Id: R-6889-003-0450-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Land
+  Owner Id: 1211860
+  Deed Type: WDNL
+  Land Size Acres: 70.6850
+  Land Value: 1060275
+  Prev Market Value: 466528
+  Prev Appraised Value: 4312
+  School District: SFC
+  Entity Codes: GCN,JCN,SFC
+  Neighborhood Code: A0889
+  Map Id: 091.X
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 42 ---
+  Owner Name: GOLDEN FIELDS (US) HOLDINGS LLC
+  Situs Address: 9500 WINTER PARK DR , FRISCO, TX 75035
+  Owner Address: 8088 PARK LN APT 1522, DALLAS, TX, 75231-5985
+  Property Id: 2061466
+  Market Value: $428,617
+  Appraised Value: $428,617
+  Assessed Value: $428,617
+  Year Built: 1998
+  Main Area Sqft: 2626
+  Legal Description: AUTUMN PARK, BLK A, LOT 1
+  Deed Number: 2023000006170
+  Deed Date: 2023-01-18T00:00:00.000
+  Geo Id: R-3766-00A-0010-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1081548
+  Deed Type: WD
+  Improvement Class: RV7
+  Has Pool: True
+  Land Value: 104500
+  Improvement Value: 324117
+  Prev Market Value: 327841
+  Prev Appraised Value: 327841
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: S3766
+  Map Id: 079.P
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 43 ---
+  Owner Name: GOLDEN FIELDS (US) HOLDINGS LLC
+  Situs Address: 4009 CAMROSE DR , PLANO, TX 75024
+  Owner Address: 8088 PARK LN APT 1522, DALLAS, TX, 75231-5985
+  Property Id: 2005250
+  Market Value: $473,672
+  Appraised Value: $473,672
+  Assessed Value: $473,672
+  Year Built: 1994
+  Main Area Sqft: 3010
+  Legal Description: BRADFORD ESTATES, BLK A, LOT 3
+  Deed Number: 2024000030515
+  Deed Date: 2024-03-15T00:00:00.000
+  Geo Id: R-2845-00A-0030-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1081548
+  Deed Type: WD
+  Improvement Class: RV7
+  Has Pool: True
+  Land Value: 100000
+  Improvement Value: 373672
+  Prev Market Value: 405830
+  Prev Appraised Value: 405830
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: S2845
+  Map Id: 096.S
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 44 ---
+  Owner Name: GOLDEN FOOT SPA
+  Situs Address: 2040 W SPRING CREEK PKWY 00139, PLANO, TX 75023
+  Owner Address: 2050 W SPRING CREEK PKWY STE 139, PLANO, TX, 75023-4224
+  Property Id: 2714232
+  Market Value: $8,000
+  Appraised Value: $8,000
+  Assessed Value: $8,000
+  Legal Description: BPP AT 2050 W SPRING CREEK PKWY
+  Geo Id: P-9000-215-3560-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 939896
+  Deed Type: OT
+  Prev Market Value: 8000
+  Prev Appraised Value: 8000
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Map Id: 113.B
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 45 ---
+  Owner Name: GOLDEN GARY N &
+  Situs Address: 1520 PARLIAMENT LN , PLANO, TX 75093
+  Owner Address: 1520 PARLIAMENT LN, PLANO, TX, 75093-5240
+  Property Id: 1976020
+  Market Value: $653,747
+  Appraised Value: $653,747
+  Assessed Value: $537,589
+  Year Built: 1998
+  Main Area Sqft: 2847
+  Land Size Sqft: 10746.00
+  Legal Description: REFLECTIONS OF OLD SHEPARD PLACE, BLK C, LOT 29
+  Deed Number: 2024000065733
+  Deed Date: 2024-05-31T00:00:00.000
+  Geo Id: R-2610-00C-0290-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1168520
+  Deed Type: WD
+  Improvement Class: RV9
+  Land Size Acres: 0.2467
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 156750
+  Improvement Value: 496997
+  Hs Cap Loss: 116158
+  Prev Market Value: 488717
+  Prev Appraised Value: 488717
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: S2610
+  Map Id: 111.V
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 46 ---
+  Owner Name: GOLDEN GATE MOTORS LLC
+  Situs Address: 1515 S MCDONALD ST 00104, MCKINNEY, TX 75069
+  Owner Address: 1515 S MCDONALD ST STE 104, MCKINNEY, TX, 75069-7135
+  Property Id: 2799168
+  Market Value: $100
+  Appraised Value: $100
+  Assessed Value: $100
+  Legal Description: BPP AT 1515 S MCDONALD ST
+  Geo Id: P-9000-219-2441-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1110381
+  Prev Market Value: 100
+  Prev Appraised Value: 100
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Map Id: 068.P
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 47 ---
+  Owner Name: GOLDEN GATE MOTORS LLC
+  Situs Address: 1515 S MCDONALD ST 00104, MCKINNEY, TX 75069
+  Owner Address: 1515 S MCDONALD ST STE 104, MCKINNEY, TX, 75069-7135
+  Property Id: 2799167
+  Market Value: $21,835
+  Appraised Value: $21,835
+  Assessed Value: $21,835
+  Legal Description: VIT AT 1515 S MCDONALD ST
+  Geo Id: V-9000-V15-3001-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: Residential
+  Owner Id: 1110381
+  Prev Market Value: 10717
+  Prev Appraised Value: 10717
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Map Id: 068.P
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 48 ---
+  Owner Name: GOLDEN GATE TEXAS LLC
+  Situs Address: 2750 PRESTON RD , FRISCO, TX 75034
+  Owner Address: 2750 PRESTON RD, FRISCO, TX, 75034-9435
+  Property Id: 2115313
+  Market Value: $4,062,580
+  Appraised Value: $4,062,580
+  Assessed Value: $4,062,580
+  Year Built: 2001
+  Main Area Sqft: 12450
+  Land Size Sqft: 101146.00
+  Legal Description: GEORGE MIXON ADDITION, BLK A, LOT 7
+  Deed Number: 2025000036416
+  Deed Date: 2025-03-27T00:00:00.000
+  Geo Id: R-4509-00A-0070-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Commercial
+  Owner Id: 1213044
+  Deed Type: SWDNL
+  Improvement Class: RS3
+  Land Size Acres: 2.3220
+  Land Value: 2427504
+  Improvement Value: 1635076
+  Prev Market Value: 3806412
+  Prev Appraised Value: 3806412
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: CNRET.RR
+  Map Id: 095.F
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 49 ---
+  Owner Name: GOLDEN GATE VISION & ASSOCIATES PA dba EYE CAN SEE
+  Situs Address: 7920 PRESTON RD 200, PLANO, TX 75024
+  Owner Address: 7920 PRESTON RD STE 200, PLANO, TX, 75024-2346
+  Property Id: 2587122
+  Market Value: $678,602
+  Appraised Value: $678,602
+  Assessed Value: $678,602
+  Year Built: 2004
+  Main Area Sqft: 2677
+  Land Size Sqft: 93828.24
+  Legal Description: PRESTON ONE CONDOMINIUMS, BLDG 1, UNIT 200, 11.0 % CMN INT
+  Deed Number: 20140117000052960
+  Deed Date: 2014-01-16T00:00:00.000
+  Geo Id: R-8844-001-2000-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Commercial
+  Owner Id: 904059
+  Deed Type: WD
+  Improvement Class: OS3
+  Land Size Acres: 2.1540
+  Land Value: 185780
+  Improvement Value: 492822
+  Prev Market Value: 629433
+  Prev Appraised Value: 629433
+  School District: SFR
+  City Code: CPL
+  Entity Codes: GCN,JCN,SFR,CPL
+  Neighborhood Code: S8844
+  Map Id: 095.P
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 50 ---
+  Owner Name: GOLDEN GLG LLC
+  Situs Address: 2320 LOS RIOS BLVD 00106, PLANO, TX 75074
+  Owner Address: 2320 LOS RIOS BLVD STE 106, PLANO, TX, 75074-3557
+  Property Id: 2658027
+  Market Value: $50,000
+  Appraised Value: $50,000
+  Assessed Value: $50,000
+  Legal Description: BPP AT 2320 LOS RIOS BLVD
+  Deed Date: 2011-01-01T00:00:00.000
+  Geo Id: P-9000-210-0181-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1061674
+  Deed Type: OT
+  Prev Market Value: 50000
+  Prev Appraised Value: 50000
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Map Id: 115.Q
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+================================================================================

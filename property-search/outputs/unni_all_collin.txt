@@ -1,0 +1,1725 @@
+================================================================================
+PROPERTY SEARCH RESULTS
+County: Collin Central Appraisal District
+Source: socrata
+Search: owner = 'UNNI'
+Time: 2026-02-19T16:30:58.796350
+Results: 50
+================================================================================
+
+--- Record 1 ---
+  Owner Name: 5317 RUNNING BROOK LANE LLC
+  Situs Address: 5317 RUNNING BROOK LN , MCKINNEY, TX 75071
+  Owner Address: 2201 LONG PR RD STE 107 PMB 332, FLOWER MOUND, TX, 75022-4964
+  Property Id: 2524158
+  Market Value: $319,544
+  Appraised Value: $319,544
+  Assessed Value: $319,544
+  Year Built: 2004
+  Main Area Sqft: 1706
+  Legal Description: BROOKVIEW PHASE 1, BLK J, LOT 4
+  Deed Number: 20080703000813870
+  Deed Date: 2008-07-01T00:00:00.000
+  Geo Id: R-8170-00J-0040-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 744895
+  Deed Type: WD
+  Improvement Class: RV5
+  Land Value: 76000
+  Improvement Value: 243544
+  Prev Market Value: 236456
+  Prev Appraised Value: 236456
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Neighborhood Code: N8170
+  Map Id: 066.G
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 2 ---
+  Owner Name: ABDULBAKI MUNNIER & SARAH IDRIS
+  Situs Address: 125 LIVE OAK DR , WYLIE, TX 75098
+  Owner Address: 125 LIVE OAK DR, WYLIE, TX, 75098-4628
+  Property Id: 2731892
+  Market Value: $527,683
+  Appraised Value: $527,683
+  Assessed Value: $454,928
+  Year Built: 2016
+  Main Area Sqft: 3223
+  Legal Description: DOMINION OF PLEASANT VALLEY PHASE 1, BLK E, LOT 15
+  Deed Number: 20200803001231880
+  Deed Date: 2020-07-16T00:00:00.000
+  Geo Id: R-10924-00E-0150-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1013636
+  Deed Type: SWDNL
+  Improvement Class: RV9
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 120000
+  Improvement Value: 407683
+  Hs Cap Loss: 72755
+  Prev Market Value: 413571
+  Prev Appraised Value: 413571
+  School District: SWY
+  City Code: CWY
+  Entity Codes: GCN,JCN,SWY,CWY
+  Neighborhood Code: N10924
+  Map Id: 134.L
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 3 ---
+  Owner Name: AHMED TANVEER & ISHARATHUNNISA
+  Situs Address: 14821 KELMSCOT DR , FRISCO, TX 75035
+  Owner Address: 14821 KELMSCOT DR, FRISCO, TX, 75035-7293
+  Property Id: 2142639
+  Market Value: $638,000
+  Appraised Value: $638,000
+  Assessed Value: $638,000
+  Year Built: 2004
+  Main Area Sqft: 4031
+  Legal Description: TURNBRIDGE MANOR PHASE ONE, BLK B, LOT 13
+  Deed Number: 20210128000189820
+  Deed Date: 2021-01-27T00:00:00.000
+  Geo Id: R-4946-00B-0130-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1178906
+  Deed Type: SWD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 130000
+  Improvement Value: 508000
+  Prev Market Value: 479923
+  Prev Appraised Value: 479923
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N4946
+  Map Id: 080.V
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 4 ---
+  Owner Name: ALI ANWAR & ZAIBUNNISSA
+  Situs Address: 2461 CLEAR FIELD DR , PLANO, TX 75025
+  Owner Address: 2461 CLEAR FIELD DR, PLANO, TX, 75025-5185
+  Property Id: 2062478
+  Market Value: $540,358
+  Appraised Value: $540,358
+  Assessed Value: $483,931
+  Year Built: 2000
+  Main Area Sqft: 3279
+  Legal Description: FAIRWAYS OF RIDGEVIEW PHASE THREE, BLK N, LOT 16
+  Deed Date: 2000-09-22T00:00:00.000
+  Geo Id: R-3768-00N-0160-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 460591
+  Deed Type: WD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 120000
+  Improvement Value: 420358
+  Hs Cap Loss: 56427
+  Prev Market Value: 439937
+  Prev Appraised Value: 439937
+  School District: SFR
+  City Code: CPL
+  Entity Codes: GCN,JCN,SFR,CPL
+  Neighborhood Code: N3272
+  Map Id: 097.E
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 5 ---
+  Owner Name: ALI MIR & ADEEBUNNISA
+  Situs Address: 2020 OKLAHOMA AVE , PLANO, TX 75074
+  Owner Address: 2020 OKLAHOMA AVE, PLANO, TX, 75074-2062
+  Property Id: 2587858
+  Market Value: $279,557
+  Appraised Value: $279,557
+  Assessed Value: $240,615
+  Year Built: 2007
+  Main Area Sqft: 1299
+  Legal Description: OAK POINT ESTATES, BLK H, LOT 6
+  Deed Number: 20110519000515670
+  Deed Date: 2011-05-16T00:00:00.000
+  Geo Id: R-8877-00H-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 818402
+  Deed Type: WD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 76000
+  Improvement Value: 203557
+  Hs Cap Loss: 38942
+  Prev Market Value: 218741
+  Prev Appraised Value: 218741
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: S8877TH
+  Map Id: 114.C
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 6 ---
+  Owner Name: ASEMOTA JUSTIN & JASHUN CUNNINGHAM
+  Situs Address: 4509 CYPRESS DR , MELISSA, TX 75454
+  Owner Address: 4509 CYPRESS DR, MELISSA, TX, 75454-2628
+  Property Id: 2781069
+  Market Value: $440,000
+  Appraised Value: $440,000
+  Assessed Value: $386,156
+  Year Built: 2020
+  Main Area Sqft: 3078
+  Land Size Sqft: 6098.40
+  Legal Description: NORTH CREEK ESTATES PHASE 6A, BLK K, LOT 94
+  Deed Number: 2023000115925
+  Deed Date: 2023-10-05T00:00:00.000
+  Geo Id: R-11584-00K-0940-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1237061
+  Deed Type: WD
+  Improvement Class: RV7
+  Land Size Acres: 0.1400
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 95000
+  Improvement Value: 345000
+  Hs Cap Loss: 53844
+  Prev Market Value: 351051
+  Prev Appraised Value: 351051
+  School District: SML
+  City Code: CML
+  Entity Codes: GCN,JCN,SML,CML
+  Neighborhood Code: N10338
+  Map Id: 037.D
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 7 ---
+  Owner Name: BAARA DHF INVESTMENTS SERIES LLC - SERIES RUNNING BROOK 5432
+  Situs Address: 5432 RUNNING BROOK LN , MCKINNEY, TX 75071
+  Owner Address: 10619 PARK PRESTON DR, DALLAS, TX, 75230-4046
+  Property Id: 2524011
+  Market Value: $348,499
+  Appraised Value: $348,499
+  Assessed Value: $348,499
+  Year Built: 2003
+  Main Area Sqft: 2098
+  Legal Description: BROOKVIEW PHASE 1, BLK B, LOT 4
+  Deed Number: 20210825001719910
+  Deed Date: 2021-08-20T00:00:00.000
+  Geo Id: R-8170-00B-0040-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1204812
+  Deed Type: WD
+  Improvement Class: RV5
+  Land Value: 80000
+  Improvement Value: 268499
+  Prev Market Value: 258367
+  Prev Appraised Value: 258367
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Neighborhood Code: N8170
+  Map Id: 066.F
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 8 ---
+  Owner Name: BAIG ABDUL MUSTAQ & KHADARUNNISA
+  Situs Address: 2342 BOXWOOD DR , ALLEN, TX 75013
+  Owner Address: 2342 BOXWOOD DR, ALLEN, TX, 75013-5837
+  Property Id: 2619789
+  Market Value: $759,082
+  Appraised Value: $759,082
+  Assessed Value: $660,932
+  Year Built: 2007
+  Main Area Sqft: 4647
+  Legal Description: STARCREEK PHASE TWO, BLK O, LOT 2
+  Deed Number: 20200124000104120
+  Deed Date: 2020-01-22T00:00:00.000
+  Geo Id: R-9265-00O-0020-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1134024
+  Deed Type: WD
+  Improvement Class: RV9
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 140000
+  Improvement Value: 619082
+  Hs Cap Loss: 98150
+  Prev Market Value: 600847
+  Prev Appraised Value: 600847
+  School District: SAL
+  City Code: CAL
+  Entity Codes: GCN,JCN,SAL,CAL
+  Neighborhood Code: N8817
+  Map Id: 082.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 9 ---
+  Owner Name: BAKER SUNNI E
+  Situs Address: 7523 MEADOW RUN LN , SACHSE, TX 75048
+  Owner Address: 7523 MEADOW RUN LN, SACHSE, TX, 75048-2236
+  Property Id: 2632977
+  Market Value: $542,392
+  Appraised Value: $542,392
+  Assessed Value: $435,608
+  Year Built: 2010
+  Main Area Sqft: 3048
+  Legal Description: WOODBRIDGE PHASE 14, BLK P, LOT 1
+  Deed Number: 20100916000986560
+  Deed Date: 2010-09-14T00:00:00.000
+  Geo Id: R-9469-00P-0010-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 801232
+  Deed Type: SWD
+  Improvement Class: RV8
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 131250
+  Improvement Value: 411142
+  Hs Cap Loss: 106784
+  Prev Market Value: 390493
+  Prev Appraised Value: 390493
+  School District: SWY
+  City Code: CSA
+  Entity Codes: GCN,JCN,SWY,CSA
+  Neighborhood Code: S9469
+  Map Id: 133.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 10 ---
+  Owner Name: BONNER SUNNITA KAILANI & THADDEUS C COLEMAN
+  Situs Address: 1913 CHALK RD , ANNA, TX 75409
+  Owner Address: 1913 CHALK RD, ANNA, TX, 75409-5462
+  Property Id: 2591810
+  Market Value: $346,270
+  Appraised Value: $346,270
+  Assessed Value: $282,132
+  Year Built: 2012
+  Main Area Sqft: 2444
+  Land Size Sqft: 7405.20
+  Legal Description: SWEETWATER CROSSING, BLK F, LOT 22
+  Deed Number: 20130528000720610
+  Deed Date: 2013-05-24T00:00:00.000
+  Geo Id: R-8931-00F-0220-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 881041
+  Deed Type: WD
+  Improvement Class: RV5
+  Land Size Acres: 0.1700
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 70000
+  Improvement Value: 276270
+  Hs Cap Loss: 64138
+  Prev Market Value: 256484
+  Prev Appraised Value: 256484
+  School District: SAN
+  City Code: CAN
+  Entity Codes: GCN,JCN,SAN,CAN
+  Neighborhood Code: S8931
+  Map Id: 009.W
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 11 ---
+  Owner Name: BRANDON NANCY GUNNIS
+  Situs Address: 4412 BARWYN LN , PLANO, TX 75093
+  Owner Address: 4412 BARWYN LN, PLANO, TX, 75093-6708
+  Property Id: 28703
+  Market Value: $547,476
+  Appraised Value: $547,476
+  Assessed Value: $547,476
+  Year Built: 1990
+  Main Area Sqft: 2812
+  Legal Description: PRESTON MEADOW PHASE I, BLK D, LOT 4
+  Deed Number: 20201109001984570
+  Deed Date: 2020-11-04T00:00:00.000
+  Geo Id: R-0069-004-0040-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1168320
+  Deed Type: WD
+  Improvement Class: RV7
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 115000
+  Improvement Value: 432476
+  Prev Market Value: 437985
+  Prev Appraised Value: 437985
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: S0069
+  Map Id: 112.E
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 12 ---
+  Owner Name: BRANDON TAMERA & UNTRUNNIS
+  Situs Address: 1611 WYNNE AVE , PROSPER, TX 75078
+  Owner Address: 1611 WYNNE AVE, PROSPER, TX, 75078-2185
+  Property Id: 2802957
+  Market Value: $358,847
+  Appraised Value: $358,847
+  Assessed Value: $358,847
+  Year Built: 2021
+  Main Area Sqft: 3891
+  Land Size Sqft: 11493.30
+  Legal Description: LEGACY GARDENS PHASE 1, BLK M, LOT 6
+  Deed Number: 20220408000570270
+  Deed Date: 2022-03-30T00:00:00.000
+  Geo Id: R-11921-00M-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1234104
+  Deed Type: SWD
+  Improvement Class: RV10
+  Land Size Acres: 0.2638
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 142450
+  Improvement Value: 216397
+  Prev Market Value: 94500
+  Prev Appraised Value: 94500
+  School District: SPR
+  City Code: CPR
+  Entity Codes: GCN,JCN,SPR,CPR
+  Neighborhood Code: S11921
+  Map Id: 046.H
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 13 ---
+  Owner Name: BRIAN K CUNNINGHAM PC
+  Situs Address: 1831 W LOUISIANA ST , MCKINNEY, TX 75069
+  Owner Address: PO BOX 809, MCKINNEY, TX, 75070-8144
+  Property Id: 2542231
+  Market Value: $3,000
+  Appraised Value: $3,000
+  Assessed Value: $3,000
+  Legal Description: BPP AT 1831 W LOUISIANA ST
+  Geo Id: P-9000-204-0983-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 705951
+  Deed Type: OT
+  Prev Market Value: 3000
+  Prev Appraised Value: 3000
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Map Id: 067.H
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 14 ---
+  Owner Name: CROOK KAYSIE CHARLENE & JOHN CUNNICK
+  Situs Address: 2500 PARLIAMENT CT , MCKINNEY, TX 75071
+  Owner Address: 2500 PARLIAMENT CT, MCKINNEY, TX, 75071-1531
+  Property Id: 2780788
+  Market Value: $757,166
+  Appraised Value: $757,166
+  Assessed Value: $638,034
+  Year Built: 2018
+  Main Area Sqft: 3862
+  Land Size Sqft: 12831.00
+  Legal Description: AUBURN HILLS PHASE 3B, BLK X, LOT 45
+  Deed Number: 20190114000040510
+  Deed Date: 2019-01-11T00:00:00.000
+  Geo Id: R-11572-00X-0450-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1093306
+  Deed Type: WD
+  Improvement Class: RV9
+  Has Pool: True
+  Land Size Acres: 0.2946
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 212520
+  Improvement Value: 544646
+  Hs Cap Loss: 119132
+  Prev Market Value: 580031
+  Prev Appraised Value: 580031
+  School District: SPR
+  City Code: CMC
+  Entity Codes: GCN,JCN,SPR,CMC
+  Neighborhood Code: N11572
+  Map Id: 050.T
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 15 ---
+  Owner Name: CUNNING DERIN G & JILL K
+  Situs Address: 1504 NORTHWOOD DR , WYLIE, TX 75098
+  Owner Address: 1504 NORTHWOOD DR, WYLIE, TX, 75098-0110
+  Property Id: 2707210
+  Market Value: $532,515
+  Appraised Value: $532,515
+  Assessed Value: $454,402
+  Year Built: 2014
+  Main Area Sqft: 3499
+  Legal Description: BRADDOCK PLACE PHASE III, BLK B, LOT 21
+  Deed Number: 20150819001042630
+  Deed Date: 2015-08-10T00:00:00.000
+  Geo Id: R-10607-00B-0210-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 960207
+  Deed Type: SWD
+  Improvement Class: RV8
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 120000
+  Improvement Value: 412515
+  Hs Cap Loss: 78113
+  Prev Market Value: 413093
+  Prev Appraised Value: 413093
+  School District: SWY
+  City Code: CWY
+  Entity Codes: GCN,JCN,SWY,CWY
+  Neighborhood Code: N9402
+  Map Id: 135.E
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 16 ---
+  Owner Name: CUNNINGHAM ALEXANDER JOSEPH &
+  Situs Address: 7347 WILLIAMSWOOD DR , DALLAS, TX 75252
+  Owner Address: 7347 WILLIAMSWOOD DR, DALLAS, TX, 75252-8129
+  Property Id: 120023
+  Market Value: $597,130
+  Appraised Value: $597,130
+  Assessed Value: $597,130
+  Year Built: 1984
+  Main Area Sqft: 2636
+  Legal Description: HIGHLANDS SECTION 1, BLK 14/8758, LOT 12
+  Deed Number: 20211209002497650
+  Deed Date: 2021-12-03T00:00:00.000
+  Geo Id: R-0234-014-0120-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1219058
+  Deed Type: CORRD
+  Improvement Class: RV8
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 130000
+  Improvement Value: 467130
+  Prev Market Value: 415250
+  Prev Appraised Value: 415250
+  School District: SPL
+  City Code: CDA
+  Entity Codes: GCN,JCN,SPL,CDA
+  Neighborhood Code: N0234
+  Map Id: 128.E
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 17 ---
+  Owner Name: CUNNINGHAM ALEX PETER & MEGHAN HART
+  Situs Address: 3300 PHAETON CT , PLANO, TX 75023
+  Owner Address: 3300 PHAETON CT, PLANO, TX, 75023-5626
+  Property Id: 533612
+  Market Value: $554,689
+  Appraised Value: $554,689
+  Assessed Value: $471,104
+  Year Built: 1983
+  Main Area Sqft: 2982
+  Legal Description: CARRIAGE HILL PHASE I, BLK B, LOT 45
+  Deed Number: 20190503000495540
+  Deed Date: 2019-04-17T00:00:00.000
+  Geo Id: R-0026-002-0450-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1105159
+  Deed Type: WD
+  Improvement Class: RV8P
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 135000
+  Improvement Value: 419689
+  Hs Cap Loss: 83585
+  Prev Market Value: 428276
+  Prev Appraised Value: 428276
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0026
+  Map Id: 112.G
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 18 ---
+  Owner Name: CUNNINGHAM ALLISON
+  Situs Address: 2712 MEADOW HILLS LN , PLANO, TX 75093
+  Owner Address: 2712 MEADOW HILLS LN, PLANO, TX, 75093-6197
+  Property Id: 1989993
+  Market Value: $599,698
+  Appraised Value: $599,698
+  Assessed Value: $541,508
+  Year Built: 1994
+  Main Area Sqft: 3195
+  Legal Description: GLEN MEADOWS, BLK C, LOT 17
+  Deed Number: 20181129001462510
+  Deed Date: 2018-11-20T00:00:00.000
+  Geo Id: R-2679-00C-0170-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1088308
+  Deed Type: WD
+  Improvement Class: RV9
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 152000
+  Improvement Value: 447698
+  Hs Cap Loss: 58190
+  Prev Market Value: 492280
+  Prev Appraised Value: 492280
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N2592
+  Map Id: 110.Q
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 19 ---
+  Owner Name: CUNNINGHAM ALLISON BRIGETTE
+  Situs Address: 12773 WALNUT RIDGE DR , FRISCO, TX 75035
+  Owner Address: 12773 WALNUT RIDGE DR, FRISCO, TX, 75035-1657
+  Property Id: 2647723
+  Market Value: $686,594
+  Appraised Value: $686,594
+  Assessed Value: $514,752
+  Year Built: 2013
+  Main Area Sqft: 3908
+  Legal Description: WINDING CREEK ESTATES, BLK F, LOT 11
+  Deed Number: 20130624000871980
+  Deed Date: 2013-06-18T00:00:00.000
+  Geo Id: R-9664-00F-0110-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 884296
+  Deed Type: SWD
+  Improvement Class: RV8
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 147250
+  Improvement Value: 539344
+  Hs Cap Loss: 171842
+  Prev Market Value: 467956
+  Prev Appraised Value: 467956
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: S9664
+  Map Id: 065.N
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 20 ---
+  Owner Name: CUNNINGHAM ANDREW W & SARA L
+  Situs Address: 10541 FLAT CREEK TRL , MCKINNEY, TX 75072
+  Owner Address: 10541 FLAT CREEK TRL, MCKINNEY, TX, 75072-8993
+  Property Id: 2664476
+  Market Value: $524,166
+  Appraised Value: $524,166
+  Assessed Value: $416,540
+  Year Built: 2010
+  Main Area Sqft: 3051
+  Land Size Sqft: 6850.00
+  Legal Description: RESERVE AT WESTRIDGE PHASE 1D, THE (CMC), BLK D, LOT 1
+  Deed Number: 20150622000742550
+  Deed Date: 2015-06-12T00:00:00.000
+  Geo Id: R-10023-00D-0010-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 954311
+  Deed Type: WD
+  Improvement Class: RV7
+  Land Size Acres: 0.1573
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 126000
+  Improvement Value: 398166
+  Hs Cap Loss: 107626
+  Prev Market Value: 378673
+  Prev Appraised Value: 378673
+  School District: SFR
+  City Code: CMC
+  Entity Codes: GCN,JCN,SFR,CMC
+  Neighborhood Code: N9472
+  Map Id: 064.P
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 21 ---
+  Owner Name: CUNNINGHAM ANGELA LOWERY
+  Situs Address: 88 EMERALD POND DR , FRISCO, TX 75034
+  Owner Address: 88 EMERALD POND DR, FRISCO, TX, 75034-8587
+  Property Id: 2115462
+  Market Value: $345,460
+  Appraised Value: $345,460
+  Assessed Value: $318,734
+  Legal Description: WILLOW POND, BLK A, LOT 34; UDI 2017, Undivided Interest 50.0000000000%
+  Deed Number: 20160328000362310
+  Deed Date: 2016-03-21T00:00:00.000
+  Geo Id: R-4570-00A-0340-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1229746
+  Deed Type: WDNL
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 78375
+  Improvement Value: 267085
+  Hs Cap Loss: 26726
+  Prev Market Value: 289758
+  Prev Appraised Value: 289758
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N4570
+  Map Id: 079.W
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 22 ---
+  Owner Name: CUNNINGHAM ANGELA LOWERY
+  Situs Address: 88 EMERALD POND DR , FRISCO, TX 75034
+  Owner Address: 88 EMERALD POND DR, FRISCO, TX, 75034-8587
+  Property Id: 2756339
+  Market Value: $345,460
+  Appraised Value: $345,460
+  Assessed Value: $318,734
+  Legal Description: WILLOW POND, BLK A, LOT 34; UDI 2017, Undivided Interest 50.0000000000%
+  Geo Id: R-4570-00A-034U-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1229747
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 78375
+  Improvement Value: 267085
+  Hs Cap Loss: 26726
+  Prev Market Value: 289758
+  Prev Appraised Value: 289758
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N4570
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 23 ---
+  Owner Name: CUNNINGHAM ANNE ROUSSEL
+  Situs Address: 155 SUNSET DR , MURPHY, TX 75094
+  Owner Address: 809 TURNBUCKLE CT, ROYSE CITY, TX, 75189-7403
+  Property Id: 256225
+  Market Value: $449,517
+  Appraised Value: $449,517
+  Assessed Value: $391,420
+  Year Built: 1972
+  Main Area Sqft: 2352
+  Land Size Sqft: 42253.00
+  Legal Description: SKYLINE ACRES ADDITION THIRD SECTION, LOT 27
+  Deed Number: 20150323000314110
+  Deed Date: 2014-09-16T00:00:00.000
+  Geo Id: R-0487-000-0270-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 946628
+  Deed Type: SWDNL
+  Improvement Class: RV6
+  Land Size Acres: 0.9700
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 121250
+  Improvement Value: 328267
+  Hs Cap Loss: 58097
+  Prev Market Value: 355836
+  Prev Appraised Value: 355836
+  School District: SPL
+  City Code: CMR
+  Entity Codes: GCN,JCN,SPL,CMR
+  Neighborhood Code: N0485
+  Map Id: 132.H
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 24 ---
+  Owner Name: CUNNINGHAM BARBARA
+  Situs Address: 9110 HILLSIDE DR , FRISCO, TX 75033
+  Owner Address: 9148 DOGWOOD ST, FRISCO, TX, 75033-3525
+  Property Id: 947863
+  Market Value: $301,089
+  Appraised Value: $301,089
+  Assessed Value: $301,089
+  Year Built: 1970
+  Main Area Sqft: 1592
+  Legal Description: THIRD INSTALLMENT OF THE CRESTVIEW ADDITION, BLK 7, LOT 17
+  Deed Number: 2023000067589
+  Deed Date: 2023-06-16T00:00:00.000
+  Geo Id: R-0988-007-0170-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 716388
+  Deed Type: SWDNL
+  Improvement Class: RV5
+  Land Value: 89250
+  Improvement Value: 211839
+  Prev Market Value: 260058
+  Prev Appraised Value: 260058
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N0986
+  Map Id: 079.E
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 25 ---
+  Owner Name: CUNNINGHAM BEN
+  Situs Address: 2600 RESEARCH DR 00100, PLANO, TX 75074
+  Owner Address: 2600 RESEARCH DR STE 100, PLANO, TX, 75074-8731
+  Property Id: 2660386
+  Market Value: $74,092
+  Appraised Value: $74,092
+  Assessed Value: $74,092
+  Legal Description: BPP AT 2600 RESEARCH DR
+  Deed Date: 2019-01-01T00:00:00.000
+  Geo Id: P-9000-210-0574-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 1092963
+  Deed Type: OT
+  Prev Market Value: 69092
+  Prev Appraised Value: 69092
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Map Id: 130.C
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 26 ---
+  Owner Name: CUNNINGHAM BENJAMIN
+  Situs Address: 805 PLEASANT VALLEY LN , RICHARDSON, TX 75080
+  Owner Address: 2207 CANYON CREEK PLZ, RICHARDSON, TX, 75080-2526
+  Property Id: 43884
+  Market Value: $506,147
+  Appraised Value: $506,147
+  Assessed Value: $451,372
+  Year Built: 1966
+  Main Area Sqft: 2405
+  Legal Description: CANYON CREEK COUNTRY CLUB NO 9, BLK 49, LOT 6
+  Deed Number: 2025000148558
+  Deed Date: 2025-09-25T00:00:00.000
+  Geo Id: R-0108-049-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 922851
+  Deed Type: SWDNL
+  Improvement Class: RV6
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 150000
+  Improvement Value: 356147
+  Hs Cap Loss: 54775
+  Prev Market Value: 410338
+  Prev Appraised Value: 410338
+  School District: SPL
+  City Code: CRC
+  Entity Codes: GCN,JCN,SPL,CRC
+  Neighborhood Code: N0108
+  Map Id: 129.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 27 ---
+  Owner Name: CUNNINGHAM BENJAMIN A &
+  Situs Address: 2423 FAIRWAY DR , RICHARDSON, TX 75080
+  Owner Address: 2423 FAIRWAY DR, RICHARDSON, TX, 75080-2109
+  Property Id: 42732
+  Market Value: $1,221,491
+  Appraised Value: $1,221,491
+  Assessed Value: $1,192,609
+  Year Built: 2006
+  Main Area Sqft: 4824
+  Legal Description: CANYON CREEK COUNTRY CLUB NO 5, BLK 41, LOT 9
+  Deed Number: 20121026001365350
+  Deed Date: 2012-10-23T00:00:00.000
+  Geo Id: R-0104-041-0090-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 857521
+  Deed Type: SWD
+  Improvement Class: RV11
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 181500
+  Improvement Value: 1039991
+  Hs Cap Loss: 28882
+  Prev Market Value: 1084190
+  Prev Appraised Value: 1084190
+  School District: SPL
+  City Code: CRC
+  Entity Codes: GCN,JCN,SPL,CRC
+  Neighborhood Code: N0111R
+  Map Id: 129.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 28 ---
+  Owner Name: CUNNINGHAM BETHANN G
+  Situs Address: 3309 PALMTREE DR , MCKINNEY, TX 75070
+  Owner Address: 3309 PALMTREE DR, MCKINNEY, TX, 75070-4495
+  Property Id: 2019324
+  Market Value: $418,015
+  Appraised Value: $418,015
+  Assessed Value: $362,264
+  Year Built: 1995
+  Main Area Sqft: 2617
+  Legal Description: ELDORADO HEIGHTS PHASE A1, BLK G, LOT 16
+  Deed Number: 20190423000438090
+  Deed Date: 2019-04-22T00:00:00.000
+  Geo Id: R-3103-00G-0160-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1104799
+  Deed Type: WD
+  Improvement Class: RV6
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 99750
+  Improvement Value: 318265
+  Hs Cap Loss: 55751
+  Prev Market Value: 329331
+  Prev Appraised Value: 329331
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Neighborhood Code: N3103
+  Map Id: 066.Z
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 29 ---
+  Owner Name: CUNNINGHAM BILL JOPLIN
+  Situs Address: 207 S MORRIS ST , MCKINNEY, TX 75069
+  Owner Address: 207 S MORRIS ST, MCKINNEY, TX, 75069-4650
+  Property Id: 1080653
+  Market Value: $219,461
+  Appraised Value: $219,461
+  Assessed Value: $126,667
+  Year Built: 1965
+  Main Area Sqft: 816
+  Legal Description: BENGE ADDITION, BLOCK 7, LOT 2B-3-4
+  Deed Date: 1988-08-17T00:00:00.000
+  Geo Id: R-0860-007-002B-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 496161
+  Deed Type: OT
+  Improvement Class: RF4
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 160000
+  Improvement Value: 59461
+  Hs Cap Loss: 92794
+  Prev Market Value: 156705
+  Prev Appraised Value: 156705
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Neighborhood Code: HF46CMC
+  Map Id: 068.J
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 30 ---
+  Owner Name: CUNNINGHAM BILLY E &
+  Situs Address: 11704 COUNTY ROAD 577 , ANNA, TX 75409
+  Owner Address: 11704 COUNTY ROAD 577, BLUE RIDGE, TX, 75424-2540
+  Property Id: 2121407
+  Market Value: $1,130,048
+  Appraised Value: $497,427
+  Assessed Value: $466,419
+  Year Built: 1996
+  Main Area Sqft: 3037
+  Land Size Sqft: 2582672.00
+  Legal Description: ABS A0555 LONSON MOORE SURVEY, SHEET 3, TRACT 13, 59.29 ACRES
+  Deed Number: 2024000128502
+  Deed Date: 2024-10-09T00:00:00.000
+  Geo Id: R-6555-003-0130-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 529750
+  Deed Type: SWDNL
+  Improvement Class: RV8
+  Land Size Acres: 59.2900
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 652190
+  Improvement Value: 477858
+  Hs Cap Loss: 31008
+  Prev Market Value: 923059
+  Prev Appraised Value: 523423
+  School District: SBL
+  Entity Codes: GCN,JCN,SBL
+  Neighborhood Code: SBLRV
+  Map Id: 025.P
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 31 ---
+  Owner Name: CUNNINGHAM BRIAN DANIEL
+  Situs Address: 4208 VIRGINIA CT , PLANO, TX 75093
+  Owner Address: 4208 VIRGINIA CT, PLANO, TX, 75093-6624
+  Property Id: 1504740
+  Market Value: $409,000
+  Appraised Value: $409,000
+  Assessed Value: $363,000
+  Year Built: 1983
+  Main Area Sqft: 2156
+  Legal Description: HOMESTEAD SECTION II, BLK B, LOT 40
+  Deed Number: 2023000069396
+  Deed Date: 2023-06-22T00:00:00.000
+  Geo Id: R-1251-002-0400-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 759845
+  Deed Type: SWD
+  Improvement Class: RV6
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 105000
+  Improvement Value: 304000
+  Hs Cap Loss: 46000
+  Prev Market Value: 330000
+  Prev Appraised Value: 330000
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0203
+  Map Id: 112.J
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 32 ---
+  Owner Name: CUNNINGHAM CECIL BURL
+  Situs Address: 301 E FINLEY BLVD , ANNA, TX 75409
+  Owner Address: 301 E FINLEY BLVD, ANNA, TX, 75409-0258
+  Property Id: 2647388
+  Market Value: $22,000
+  Appraised Value: $22,000
+  Assessed Value: $22,000
+  Legal Description: BPP AT 301 E FINLEY BLVD
+  Geo Id: P-9000-209-2022-1
+  Property Year: 2022
+  Property Type: Personal
+  Property Subtype: BPP
+  Owner Id: 771044
+  Deed Type: OT
+  Prev Market Value: 22000
+  Prev Appraised Value: 22000
+  School District: SAN
+  City Code: CAN
+  Entity Codes: GCN,JCN,SAN,CAN
+  Map Id: 022.S
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 33 ---
+  Owner Name: CUNNINGHAM CECIL BURL
+  Situs Address: 301 E FINLEY BLVD , ANNA, TX 75409
+  Owner Address: 301 E FINLEY BLVD, ANNA, TX, 75409-0258
+  Property Id: 2738450
+  Market Value: $942,292
+  Appraised Value: $594,672
+  Assessed Value: $594,672
+  Year Built: 2020
+  Main Area Sqft: 3776
+  Land Size Sqft: 842842.44
+  Legal Description: ABS A0798 G STARK SURVEY, SHEET 2, TRACT 73, 19.349 ACRES; (PT OF ABANDONED ROW OF 0.150 ACRES)
+  Deed Number: 2023000015997
+  Deed Date: 2023-02-17T00:00:00.000
+  Geo Id: R-6798-002-0730-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 969704
+  Deed Type: WDNL
+  Improvement Class: RF4
+  Land Size Acres: 19.3490
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 483725
+  Improvement Value: 458567
+  Prev Market Value: 896910
+  Prev Appraised Value: 619248
+  School District: SAN
+  City Code: CAN
+  Entity Codes: GCN,JCN,SAN,CAN
+  Neighborhood Code: SANRV2-6
+  Map Id: 022.S
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 34 ---
+  Owner Name: CUNNINGHAM CHRISTOPHER A
+  Situs Address: 2801 E 15TH ST , PLANO, TX 75074
+  Owner Address: 2801 E 15TH ST, PLANO, TX, 75074-6603
+  Property Id: 138504
+  Market Value: $231,559
+  Appraised Value: $231,559
+  Assessed Value: $184,610
+  Year Built: 1962
+  Main Area Sqft: 1044
+  Legal Description: MEADOWS FIRST SECTION, BLK 3, LOT 27A
+  Deed Number: 20080604000674030
+  Deed Date: 2008-05-30T00:00:00.000
+  Geo Id: R-0270-003-0270-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 742555
+  Deed Type: WD
+  Improvement Class: RV4
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 65000
+  Improvement Value: 166559
+  Hs Cap Loss: 46949
+  Prev Market Value: 186902
+  Prev Appraised Value: 186902
+  School District: SPL
+  City Code: CPL
+  Entity Codes: GCN,JCN,SPL,CPL
+  Neighborhood Code: N0270
+  Map Id: 114.V
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 35 ---
+  Owner Name: CUNNINGHAM CHRISTOPHER K & SARA
+  Situs Address: 10705 BRANDENBERG DR , FRISCO, TX 75035
+  Owner Address: 10313 CAMELOT DR, FRISCO, TX, 75035-2925
+  Property Id: 2029050
+  Market Value: $364,470
+  Appraised Value: $364,470
+  Assessed Value: $364,470
+  Year Built: 1996
+  Main Area Sqft: 1806
+  Legal Description: PRESTON VINEYARDS IV PHASE ONE, BLK C, LOT 9
+  Deed Number: 20190304000222110
+  Deed Date: 2019-02-28T00:00:00.000
+  Geo Id: R-3264-00C-0090-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1098097
+  Deed Type: WD
+  Improvement Class: RV6
+  Land Value: 100000
+  Improvement Value: 264470
+  Prev Market Value: 285862
+  Prev Appraised Value: 285862
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N2287
+  Map Id: 079.M
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 36 ---
+  Owner Name: CUNNINGHAM CHRISTOPHER R & NICOLE S
+  Situs Address: 7200 LANGMUIR DR , MCKINNEY, TX 75071
+  Owner Address: 7200 LANGMUIR DR, MCKINNEY, TX, 75071-4608
+  Property Id: 2511806
+  Market Value: $666,448
+  Appraised Value: $666,448
+  Assessed Value: $572,497
+  Year Built: 2003
+  Main Area Sqft: 3640
+  Legal Description: BRIGHTWOOD, BLK A, LOT 15
+  Deed Number: 20151214001555800
+  Deed Date: 2015-12-04T00:00:00.000
+  Geo Id: R-8071-00A-0150-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 972649
+  Deed Type: WD
+  Improvement Class: RV8
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 184800
+  Improvement Value: 481648
+  Hs Cap Loss: 93951
+  Prev Market Value: 509088
+  Prev Appraised Value: 509088
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Neighborhood Code: S8071
+  Map Id: 065.D
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 37 ---
+  Owner Name: CUNNINGHAM CODY C &
+  Situs Address: 1327 BRIDGEWATER BLVD , CELINA, TX 75009
+  Owner Address: 1327 BRIDGEWATER BLVD, CELINA, TX, 75009-1486
+  Property Id: 2742480
+  Market Value: $644,035
+  Appraised Value: $644,035
+  Assessed Value: $501,311
+  Year Built: 2018
+  Main Area Sqft: 3278
+  Legal Description: LIGHT FARMS THE HAWTHORNE NEIGHBORHOOD PHASE 2, BLK R, LOT 15
+  Deed Number: 20180820001042420
+  Deed Date: 2018-08-16T00:00:00.000
+  Geo Id: R-11063-00R-0150-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1152583
+  Deed Type: SWD
+  Improvement Class: RV9
+  Homestead Exempt: True
+  Exemptions: HS,DV4
+  Land Value: 154000
+  Improvement Value: 490035
+  Hs Cap Loss: 142724
+  Prev Market Value: 455737
+  Prev Appraised Value: 455737
+  School District: SPR
+  Entity Codes: GCN,JCN,SPR,WCCM1
+  Neighborhood Code: N10962
+  Map Id: 031.X
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 38 ---
+  Owner Name: CUNNINGHAM CODY M & AMANDA F
+  Situs Address: 4132 ANGELINA DR , MCKINNEY, TX 75071
+  Owner Address: 4132 ANGELINA DR, MCKINNEY, TX, 75071-1436
+  Property Id: 2749314
+  Market Value: $509,171
+  Appraised Value: $509,171
+  Assessed Value: $407,000
+  Year Built: 2017
+  Main Area Sqft: 3034
+  Land Size Sqft: 6369.00
+  Legal Description: HARDIN VILLAGE PHASE 1, BLK C, LOT 7
+  Deed Number: 20200618000916720
+  Deed Date: 2020-06-15T00:00:00.000
+  Geo Id: R-11147-00C-0070-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1149265
+  Deed Type: SWD
+  Improvement Class: RV9
+  Land Size Acres: 0.1462
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 115000
+  Improvement Value: 394171
+  Hs Cap Loss: 102171
+  Prev Market Value: 370000
+  Prev Appraised Value: 370000
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Neighborhood Code: N11146
+  Map Id: 066.D
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 39 ---
+  Owner Name: CUNNINGHAM CODY PRESCOTT & JULIE
+  Situs Address: 911 MOSS GLEN DR , PROSPER, TX 75078
+  Owner Address: 911 MOSS GLEN DR, PROSPER, TX, 75078-8691
+  Property Id: 2686901
+  Market Value: $729,766
+  Appraised Value: $729,766
+  Assessed Value: $584,854
+  Year Built: 2014
+  Main Area Sqft: 3519
+  Land Size Sqft: 14393.00
+  Legal Description: WILLOW RIDGE PHASE FOUR B, BLK T, LOT 11
+  Deed Number: 2024000046548
+  Deed Date: 2024-04-19T00:00:00.000
+  Geo Id: R-10322-00T-0110-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 949076
+  Deed Type: WD
+  Improvement Class: RV9
+  Has Pool: True
+  Land Size Acres: 0.3304
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 180000
+  Improvement Value: 549766
+  Hs Cap Loss: 144912
+  Prev Market Value: 518049
+  Prev Appraised Value: 518049
+  School District: SPR
+  City Code: CPR
+  Entity Codes: GCN,JCN,SPR,CPR
+  Neighborhood Code: N4734
+  Map Id: 047.U
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 40 ---
+  Owner Name: CUNNINGHAM CRAIG R & SARAH A
+  Situs Address: 11456 ASHDON LN , FRISCO, TX 75035
+  Owner Address: 11456 ASHDON LN, FRISCO, TX, 75035-3611
+  Property Id: 2555643
+  Market Value: $630,474
+  Appraised Value: $630,474
+  Assessed Value: $527,270
+  Year Built: 2005
+  Main Area Sqft: 3897
+  Legal Description: STONELAKE ESTATES PHASE I, BLK D, LOT 8
+  Deed Number: 2022000150321
+  Deed Date: 2022-10-06T00:00:00.000
+  Geo Id: R-8448-00D-0080-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 663430
+  Deed Type: WD
+  Improvement Class: RV8
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 154613
+  Improvement Value: 475861
+  Hs Cap Loss: 103204
+  Prev Market Value: 479336
+  Prev Appraised Value: 479336
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N8448
+  Map Id: 065.W
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 41 ---
+  Owner Name: CUNNINGHAM CRYSTAL GOBER & MICHAEL JOE
+  Situs Address: 11485 FM 3356 , ANNA, TX 75409
+  Owner Address: 11329 FM 3356, ANNA, TX, 75409-3023
+  Property Id: 2614738
+  Market Value: $1,233,972
+  Appraised Value: $826,671
+  Assessed Value: $826,671
+  Year Built: 2020
+  Main Area Sqft: 3492
+  Land Size Sqft: 1033243.20
+  Legal Description: ABS A0917 B C THOMPSON SURVEY, TRACT 14, 23.72 ACRES
+  Deed Number: 20200128000120200
+  Deed Date: 2020-01-28T00:00:00.000
+  Geo Id: R-6917-000-0140-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1136109
+  Deed Type: WD
+  Improvement Class: RV9
+  Land Size Acres: 23.7200
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 426960
+  Improvement Value: 807012
+  Prev Market Value: 638060
+  Prev Appraised Value: 298896
+  School District: SVA
+  Entity Codes: GCN,JCN,SVA
+  Neighborhood Code: SANRV7-12
+  Map Id: 006.U
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 42 ---
+  Owner Name: CUNNINGHAM CURTIS WAYNE
+  Situs Address: 10813 BLUE BAY DR , FRISCO, TX 75035
+  Owner Address: 10813 BLUE BAY DR, FRISCO, TX, 75035-8438
+  Property Id: 2044062
+  Market Value: $459,024
+  Appraised Value: $459,024
+  Assessed Value: $388,801
+  Year Built: 1997
+  Main Area Sqft: 2140
+  Legal Description: HILLCREST ESTATES SECTION II PHASE II, BLK E, LOT 17
+  Deed Number: 20180510000573350
+  Deed Date: 2018-05-08T00:00:00.000
+  Geo Id: R-3499-00E-0170-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 367083
+  Deed Type: WDNL
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 115000
+  Improvement Value: 344024
+  Hs Cap Loss: 70223
+  Prev Market Value: 353455
+  Prev Appraised Value: 353455
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N2897
+  Map Id: 095.D
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 43 ---
+  Owner Name: CUNNINGHAM DANIEL & DORIS
+  Situs Address: 5630 PRESTON FAIRWAYS DR , DALLAS, TX 75252
+  Owner Address: 5630 PRESTON FAIRWAYS DR, DALLAS, TX, 75252-4953
+  Property Id: 1256893
+  Market Value: $699,633
+  Appraised Value: $699,633
+  Assessed Value: $683,665
+  Year Built: 1987
+  Main Area Sqft: 3669
+  Legal Description: PRESTON TRAILS FAIRWAYS PHASE I, BLK K/8731, LOT 9
+  Deed Number: 20170721000960790
+  Deed Date: 2013-06-20T00:00:00.000
+  Geo Id: R-0613-011-0090-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 884222
+  Deed Type: CORRD
+  Improvement Class: RV10
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 160000
+  Improvement Value: 539633
+  Hs Cap Loss: 15968
+  Prev Market Value: 621514
+  Prev Appraised Value: 621514
+  School District: SPL
+  City Code: CDA
+  Entity Codes: GCN,JCN,SPL,CDA
+  Neighborhood Code: N0613
+  Map Id: 127.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 44 ---
+  Owner Name: CUNNINGHAM DARREN & GERRI R
+  Situs Address: 7520 COUNTY ROAD 990 , PRINCETON, TX 75407
+  Owner Address: 7520 COUNTY ROAD 990, PRINCETON, TX, 75407-4935
+  Property Id: 2533781
+  Market Value: $435,329
+  Appraised Value: $435,329
+  Assessed Value: $356,917
+  Year Built: 1940
+  Main Area Sqft: 2467
+  Land Size Sqft: 84506.40
+  Legal Description: ABS A0338 M I GEMINEZ SURVEY, SHEET 1, TRACT 56, 1.94 ACRES
+  Deed Number: 20100420000384200
+  Deed Date: 2010-04-12T00:00:00.000
+  Geo Id: R-6338-001-0560-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 791318
+  Deed Type: WD
+  Improvement Class: RF7
+  Land Size Acres: 1.9400
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 135800
+  Improvement Value: 299529
+  Hs Cap Loss: 78412
+  Prev Market Value: 324470
+  Prev Appraised Value: 324470
+  School District: SPN
+  Entity Codes: GCN,JCN,SPN
+  Neighborhood Code: CB.SPN.RF
+  Map Id: 103.Z
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 45 ---
+  Owner Name: CUNNINGHAM DAVID & ANNA
+  Situs Address: 13782 VERA CRUZ RD , FRISCO, TX 75035
+  Owner Address: 13782 VERA CRUZ RD, FRISCO, TX, 75035-2443
+  Property Id: 2719128
+  Market Value: $566,645
+  Appraised Value: $566,645
+  Assessed Value: $463,643
+  Year Built: 2016
+  Main Area Sqft: 2622
+  Legal Description: MIRAMONTE PHASE 1C, BLK F, LOT 5
+  Deed Number: 20170103000007570
+  Deed Date: 2016-12-30T00:00:00.000
+  Geo Id: R-10768-00F-0050-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1013470
+  Deed Type: SWD
+  Improvement Class: RV9
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 135000
+  Improvement Value: 431645
+  Hs Cap Loss: 103002
+  Prev Market Value: 421494
+  Prev Appraised Value: 421494
+  School District: SPR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SPR,CFR
+  Neighborhood Code: N10163
+  Map Id: 063.L
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 46 ---
+  Owner Name: CUNNINGHAM DAVID C & BARBARA S
+  Situs Address: 4901 S MEADOW RIDGE CIR , MCKINNEY, TX 75072
+  Owner Address: 4901 S MEADOW RIDGE CIR, MCKINNEY, TX, 75072-5249
+  Property Id: 1965794
+  Market Value: $588,961
+  Appraised Value: $588,961
+  Assessed Value: $476,384
+  Year Built: 1993
+  Main Area Sqft: 3601
+  Legal Description: MEADOW RIDGE PHASE II, BLK B, LOT 13
+  Deed Number: 2023000063030
+  Deed Date: 2023-06-06T00:00:00.000
+  Geo Id: R-2472-00B-0130-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 591413
+  Deed Type: WD
+  Improvement Class: RV8
+  Has Pool: True
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 136500
+  Improvement Value: 452461
+  Hs Cap Loss: 112577
+  Prev Market Value: 433076
+  Prev Appraised Value: 433076
+  School District: SMC
+  City Code: CMC
+  Entity Codes: GCN,JCN,SMC,CMC
+  Neighborhood Code: N2335
+  Map Id: 066.Q
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 47 ---
+  Owner Name: CUNNINGHAM DAVID E & LISA K
+  Situs Address: 1810 COUNTRY WALK LN , WYLIE, TX 75098
+  Owner Address: 1810 COUNTRY WALK LN, WYLIE, TX, 75098-7783
+  Property Id: 2113531
+  Market Value: $356,924
+  Appraised Value: $356,924
+  Assessed Value: $326,108
+  Year Built: 2001
+  Main Area Sqft: 2590
+  Legal Description: RIVERCHASE PHASE 1, BLK D, LOT 27
+  Deed Date: 2001-10-26T00:00:00.000
+  Geo Id: R-4594-00D-0270-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 496782
+  Deed Type: WD
+  Improvement Class: RV6
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 80000
+  Improvement Value: 276924
+  Hs Cap Loss: 30816
+  Prev Market Value: 297674
+  Prev Appraised Value: 297674
+  School District: SWY
+  City Code: CWY
+  Entity Codes: GCN,JCN,SWY,CWY
+  Neighborhood Code: N4594
+  Map Id: 117.G
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 48 ---
+  Owner Name: CUNNINGHAM DEAN & CAROLYN
+  Situs Address: 11312 JEREME TRL , FRISCO, TX 75035
+  Owner Address: 11312 JEREME TRL, FRISCO, TX, 75035-7808
+  Property Id: 1991936
+  Market Value: $401,349
+  Appraised Value: $401,349
+  Assessed Value: $347,711
+  Year Built: 1992
+  Main Area Sqft: 2027
+  Legal Description: PLANTATION RESORT PHASE IA, THE (CFR), BLK O, LOT 13
+  Deed Number: 171239
+  Deed Date: 2003-08-20T00:00:00.000
+  Geo Id: R-2694-00O-0130-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 558986
+  Deed Type: WD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 99000
+  Improvement Value: 302349
+  Hs Cap Loss: 53638
+  Prev Market Value: 316101
+  Prev Appraised Value: 316101
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N2232
+  Map Id: 080.S
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 49 ---
+  Owner Name: CUNNINGHAM DEBRA
+  Situs Address: 11259 CHAUCER DR , FRISCO, TX 75035
+  Owner Address: 11259 CHAUCER DR, FRISCO, TX, 75035-7784
+  Property Id: 2145480
+  Market Value: $369,810
+  Appraised Value: $369,810
+  Assessed Value: $317,429
+  Year Built: 2002
+  Main Area Sqft: 2064
+  Legal Description: LAKES OF PRESTON VINEYARDS VILLAGES PHASE FIVE, THE (CFR), BLK B, LOT 4A
+  Deed Number: 2025000073201
+  Deed Date: 2025-06-11T00:00:00.000
+  Geo Id: R-4971-00B-004A-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 991627
+  Deed Type: SWDNL
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS,DP
+  Land Value: 85000
+  Improvement Value: 284810
+  Hs Cap Loss: 52381
+  Prev Market Value: 288572
+  Prev Appraised Value: 288572
+  School District: SFR
+  City Code: CFR
+  Entity Codes: GCN,JCN,SFR,CFR
+  Neighborhood Code: N4254
+  Map Id: 079.R
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+--- Record 50 ---
+  Owner Name: CUNNINGHAM DERREK & LASHIRA MCCULLY
+  Situs Address: 902 POST OAK TRL , ANNA, TX 75409
+  Owner Address: 902 POST OAK TRL, ANNA, TX, 75409-4443
+  Property Id: 2144255
+  Market Value: $263,669
+  Appraised Value: $263,669
+  Assessed Value: $263,669
+  Year Built: 2002
+  Main Area Sqft: 1369
+  Legal Description: OAK HOLLOW ESTATES PHASE 1, BLK D, LOT 6
+  Deed Number: 20201023001852120
+  Deed Date: 2020-10-20T00:00:00.000
+  Geo Id: R-4974-00D-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1166145
+  Deed Type: WD
+  Improvement Class: RV5
+  Land Value: 82500
+  Improvement Value: 181169
+  Prev Market Value: 182159
+  Prev Appraised Value: 182159
+  School District: SAN
+  City Code: CAN
+  Entity Codes: GCN,JCN,SAN,CAN
+  Neighborhood Code: N4974
+  Map Id: 021.L
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+================================================================================

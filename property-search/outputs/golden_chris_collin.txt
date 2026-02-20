@@ -1,0 +1,44 @@
+================================================================================
+PROPERTY SEARCH RESULTS
+County: Collin Central Appraisal District
+Source: socrata
+Search: owner = 'GOLDEN CHRIS'
+Time: 2026-02-19T16:35:07.001300
+Results: 1
+================================================================================
+
+--- Record 1 ---
+  Owner Name: GOLDEN CHRISTOPHER D
+  Situs Address: 9104 SHADY SPRING LN , MCKINNEY, TX 75071
+  Owner Address: 9104 SHADY SPRING LN, MCKINNEY, TX, 75071-0108
+  Property Id: 2816682
+  Market Value: $386,188
+  Appraised Value: $386,188
+  Assessed Value: $382,039
+  Year Built: 2020
+  Main Area Sqft: 1924
+  Legal Description: TRINITY FALLS PLANNING UNIT 3 PHASE 5B WEST, BLK Q, LOT 6
+  Deed Number: 20210105000019490
+  Deed Date: 2020-12-30T00:00:00.000
+  Geo Id: R-12103-00Q-0060-1
+  Property Year: 2022
+  Property Type: Real
+  Property Subtype: Residential
+  Owner Id: 1173134
+  Deed Type: SWD
+  Improvement Class: RV7
+  Homestead Exempt: True
+  Exemptions: HS
+  Land Value: 85500
+  Improvement Value: 300688
+  Hs Cap Loss: 4149
+  Prev Market Value: 347308
+  Prev Appraised Value: 347308
+  School District: SMC
+  Entity Codes: GCN,JCN,SMC,WMM2
+  Neighborhood Code: N11801
+  Map Id: 036.K
+  Status: Certified
+  Data Date: 2026-02-09T00:45:41.973
+
+================================================================================
